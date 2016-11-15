@@ -3,11 +3,45 @@
   <channel>
     <title>Fight Analytics - Real time MMA stats - UFC statistics</title>
     <description>Highly accurated MMA stats. We combine real time monitoring statistics of every fight, specialized data and a innovative technology behind it.</description>
-    <link>http://fightanalytics.cc/</link>
-    <atom:link href="http://fightanalytics.cc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2016 01:48:46 -0200</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 01:48:46 -0200</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Nov 2016 16:29:49 -0200</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 16:29:49 -0200</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>UFC Fight Night 99 - Mousasi vs. Hall - Full Live Results and Fight Stats</title>
+        <description>&lt;iframe src=&quot;http://live.fightanalytics.cc/?live=true/#!/events/582a19c142c1f37e6b169df1/new/fightanalytics2&quot; width=&quot;100%&quot; height=&quot;1500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Fight Analytics Team&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Nov 2016 13:16:53 -0200</pubDate>
+        <link>http://localhost:4000/stats-center/UFC-Fight-Night-99-results-and-statistics/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-99-results-and-statistics/</guid>
+        
+        
+        <category>stats-center</category>
+        
+      </item>
+    
+      <item>
+        <title>UFC Fight Night 100 - Bader vs. Minotouro - Full Live Results and Fight Stats</title>
+        <description>&lt;iframe src=&quot;http://live.fightanalytics.cc/?live=true/#!/events/582a450242c1f37e6b169dfe/new/fightanalytics2&quot; width=&quot;100%&quot; height=&quot;1500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Fight Analytics Team&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Nov 2016 13:16:53 -0200</pubDate>
+        <link>http://localhost:4000/stats-center/UFC-Fight-Night-100-results-and-statistics/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-100-results-and-statistics/</guid>
+        
+        
+        <category>stats-center</category>
+        
+      </item>
     
       <item>
         <title>UFC 205 - Alvarez vs McGregor - Full Live Results and Fight Stats</title>
@@ -18,8 +52,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://fightanalytics.cc/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</guid>
+        <link>http://localhost:4000/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</guid>
         
         
         <category>stats-center</category>
@@ -47,8 +81,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Oct 2016 13:16:53 -0200</pubDate>
-        <link>http://fightanalytics.cc/changelog/free-ufc-statistics/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/changelog/free-ufc-statistics/</guid>
+        <link>http://localhost:4000/changelog/free-ufc-statistics/</link>
+        <guid isPermaLink="true">http://localhost:4000/changelog/free-ufc-statistics/</guid>
         
         
         <category>changelog</category>
@@ -64,8 +98,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Sep 2016 12:16:53 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</guid>
+        <link>http://localhost:4000/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</guid>
         
         
         <category>stats-center</category>
@@ -133,8 +167,8 @@ CEO - Fight Analytics&lt;br /&gt;
 http://br/fightanalytics.cc&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Sep 2016 16:20:00 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</guid>
+        <link>http://localhost:4000/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</guid>
         
         
         <category>stats-center</category>
@@ -202,8 +236,8 @@ CEO - Fight Analytics&lt;br /&gt;
 http://fightanalytics.cc&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Sep 2016 16:20:00 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/four-things-you-can-expect-for-ufc-fight-night-95/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/four-things-you-can-expect-for-ufc-fight-night-95/</guid>
+        <link>http://localhost:4000/stats-center/four-things-you-can-expect-for-ufc-fight-night-95/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/four-things-you-can-expect-for-ufc-fight-night-95/</guid>
         
         
         <category>stats-center</category>
@@ -219,8 +253,8 @@ http://fightanalytics.cc&lt;/p&gt;
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Sep 2016 17:16:53 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/UFC-Fight-Night-95-live-results-and-fight-stats/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-Fight-Night-95-live-results-and-fight-stats/</guid>
+        <link>http://localhost:4000/stats-center/UFC-Fight-Night-95-live-results-and-fight-stats/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-95-live-results-and-fight-stats/</guid>
         
         
         <category>stats-center</category>
@@ -297,8 +331,8 @@ CEO - Fight Analytics&lt;br /&gt;
 http://fightanalytics.cc&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Sep 2016 17:16:53 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/</guid>
+        <link>http://localhost:4000/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/</guid>
         
         
         <category>stats-center</category>
@@ -377,42 +411,8 @@ CEO - Fight Analytics&lt;br /&gt;
 http://fightanalytics.cc&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Sep 2016 17:16:53 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/4-atletas-para-ficar-de-olho-no-UFC/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/4-atletas-para-ficar-de-olho-no-UFC/</guid>
-        
-        
-        <category>stats-center</category>
-        
-      </item>
-    
-      <item>
-        <title>UFC Hidalgo: Poirier x Johnson - Full Live Results and Fight Stats</title>
-        <description>&lt;iframe src=&quot;http://live.fightanalytics.cc/?live=true/#!/events/57d7241d774ee3474be6d742/new/fightanalytics&quot; width=&quot;100%&quot; height=&quot;1500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;Fight Analytics Team&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Sep 2016 17:16:53 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/ufc-hidalgo-poirierxjohnson-ufc-statistics/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/ufc-hidalgo-poirierxjohnson-ufc-statistics/</guid>
-        
-        
-        <category>stats-center</category>
-        
-      </item>
-    
-      <item>
-        <title>UFC 203: Miocic x Overeem - Full Live Results and Fight Stats - UFC Stats</title>
-        <description>&lt;iframe src=&quot;http://live.fightanalytics.cc/?live=true/#!/events/57cd796746ea8e20673f8a9c/new/admin&quot; width=&quot;100%&quot; height=&quot;1500&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;Fight Analytics Team&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Sep 2016 17:16:53 -0300</pubDate>
-        <link>http://fightanalytics.cc/stats-center/ufc-203-miocic-vs-overeem-ufc-statistics/</link>
-        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/ufc-203-miocic-vs-overeem-ufc-statistics/</guid>
+        <link>http://localhost:4000/stats-center/4-atletas-para-ficar-de-olho-no-UFC/</link>
+        <guid isPermaLink="true">http://localhost:4000/stats-center/4-atletas-para-ficar-de-olho-no-UFC/</guid>
         
         
         <category>stats-center</category>
