@@ -6376,6 +6376,8 @@ body {
   border-bottom: 1px solid #eee;
   padding-bottom: 30px; }
 
+.post-thumb:nth-child(3n+1) {
+  clear: left; }
 .post-thumb h2 {
   font-size: 25px;
   min-height: 400px; }
