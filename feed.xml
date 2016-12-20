@@ -3,10 +3,10 @@
   <channel>
     <title>Fight Analytics - Real time MMA stats - UFC statistics</title>
     <description>Highly accurated MMA stats. We combine real time monitoring statistics of every fight, specialized data and a innovative technology behind it.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Dec 2016 16:13:21 -0200</pubDate>
-    <lastBuildDate>Wed, 07 Dec 2016 16:13:21 -0200</lastBuildDate>
+    <link>http://fightanalytics.cc/</link>
+    <atom:link href="http://fightanalytics.cc/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Dec 2016 02:04:04 -0200</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2016 02:04:04 -0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Tue, 29 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/The-Ultimate-Fighter-24-results-and-statistics/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/The-Ultimate-Fighter-24-results-and-statistics/</guid>
+        <link>http://fightanalytics.cc/stats-center/The-Ultimate-Fighter-24-results-and-statistics/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/The-Ultimate-Fighter-24-results-and-statistics/</guid>
         
         
         <category>stats-center</category>
@@ -195,8 +195,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 29 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/Fight-Analytics-predictions-and-picks-for-The-Ultimate-Fighter-24-Finale/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/Fight-Analytics-predictions-and-picks-for-The-Ultimate-Fighter-24-Finale/</guid>
+        <link>http://fightanalytics.cc/stats-center/Fight-Analytics-predictions-and-picks-for-The-Ultimate-Fighter-24-Finale/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/Fight-Analytics-predictions-and-picks-for-The-Ultimate-Fighter-24-Finale/</guid>
         
         
         <category>stats-center</category>
@@ -389,8 +389,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/Fight-Analytics-predictions-and-picks-for-UFC-Melbourne/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/Fight-Analytics-predictions-and-picks-for-UFC-Melbourne/</guid>
+        <link>http://fightanalytics.cc/stats-center/Fight-Analytics-predictions-and-picks-for-UFC-Melbourne/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/Fight-Analytics-predictions-and-picks-for-UFC-Melbourne/</guid>
         
         
         <category>stats-center</category>
@@ -406,8 +406,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/UFC-Fight-Night-101-results-and-statistics/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-101-results-and-statistics/</guid>
+        <link>http://fightanalytics.cc/stats-center/UFC-Fight-Night-101-results-and-statistics/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-Fight-Night-101-results-and-statistics/</guid>
         
         
         <category>stats-center</category>
@@ -423,8 +423,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/UFC-Fight-Night-99-results-and-statistics/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-99-results-and-statistics/</guid>
+        <link>http://fightanalytics.cc/stats-center/UFC-Fight-Night-99-results-and-statistics/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-Fight-Night-99-results-and-statistics/</guid>
         
         
         <category>stats-center</category>
@@ -440,8 +440,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/UFC-Fight-Night-100-results-and-statistics/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-100-results-and-statistics/</guid>
+        <link>http://fightanalytics.cc/stats-center/UFC-Fight-Night-100-results-and-statistics/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-Fight-Night-100-results-and-statistics/</guid>
         
         
         <category>stats-center</category>
@@ -457,8 +457,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Nov 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</guid>
+        <link>http://fightanalytics.cc/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-205-Alvarez-vs-McGregor-results-and-statistics/</guid>
         
         
         <category>stats-center</category>
@@ -486,8 +486,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Oct 2016 13:16:53 -0200</pubDate>
-        <link>http://localhost:4000/changelog/free-ufc-statistics/</link>
-        <guid isPermaLink="true">http://localhost:4000/changelog/free-ufc-statistics/</guid>
+        <link>http://fightanalytics.cc/changelog/free-ufc-statistics/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/changelog/free-ufc-statistics/</guid>
         
         
         <category>changelog</category>
@@ -503,8 +503,8 @@
 &lt;p&gt;Fight Analytics Team&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Sep 2016 12:16:53 -0300</pubDate>
-        <link>http://localhost:4000/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</guid>
+        <link>http://fightanalytics.cc/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/UFC-Fight-Night-96-portland-live-results-and-fight-stats/</guid>
         
         
         <category>stats-center</category>
@@ -572,8 +572,8 @@ CEO - Fight Analytics&lt;br /&gt;
 http://br/fightanalytics.cc&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Sep 2016 16:20:00 -0300</pubDate>
-        <link>http://localhost:4000/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</link>
-        <guid isPermaLink="true">http://localhost:4000/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</guid>
+        <link>http://fightanalytics.cc/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</link>
+        <guid isPermaLink="true">http://fightanalytics.cc/stats-center/quatro-coisas-que-voce-deve-esperar-para-o-ufc-fight-night-95/</guid>
         
         
         <category>stats-center</category>
