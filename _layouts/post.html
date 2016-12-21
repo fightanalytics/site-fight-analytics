@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+    <div class="inner-page {{ page.category }}">
+
+        <article id="page" class="page jumbotron" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="text-container col-md-8 col-md-offset-2">
+                            <h1 itemprop="name headline">{{ page.title }}</h1>
+                            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+                            <h5>Share this:</h5>
+                            <div class="addthis_inline_share_toolbox"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <div class="container">
+            <div class="post col-md-8 col-md-offset-2">
+                <br><br>
+                {% if page.category == "stats-center" %}
+                    <div class="post-thumb">
+                        <img src="{{ page.imgpost }}" alt="{{ page.title }}">
+                    </div>
+                    <br><br>
+                    <h5>Like us:</h5>
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.8&appId=263494993684837";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    <div class="fb-like" data-href="https://www.facebook.com/fightanalytics/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+                    <br><br><br>
+                {% endif %}
+                <div class="post-content" itemprop="articleBody">
+                    {{ content }}
+                </div>
+                <br>
+                -- 
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+                        <script>
+
+                        /**
+                        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                        /*
+                        var disqus_config = function () {
+                        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                        };
+                        */
+                        (function() { // DON'T EDIT BELOW THIS LINE
+                        var d = document, s = d.createElement('script');
+                        s.src = '//fight-analytics.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                        })();
+                        </script>
+                        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                                        
+
+                </div>  
+            </div>
+        </div>
+
+    </div>
+<br><br>
+<div class="well well-lg">
+    <div class="container">
+        <h3>Start improving the live fight experience for your MMA fans now.</h3>
+        <a href="/pricing" class="btn btn-primary btn-lg"> <strong>Pricing and Plans</strong> <span class="subtext">(no credit card required)</span></a>
+    </div>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57d9e8bc978e5fce"></script>

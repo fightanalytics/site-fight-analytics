@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "4 things you can expect for UFC Fight Night 95"
+date:   2016-09-22 16:20:00 -0300
+imgthumb: http://i.imgur.com/X1OnlPU.jpg
+imgpost: http://i.imgur.com/cCpHilC.jpg
+category: stats-center
+---
+
+
+The UFC returns to Brasília this Saturday (24/09) for UFC Fight Night 95. The card has 13 fights and the main event of the night, Brazil's Cristiane "Cyborg" Justino will put her streak of 11 victories by knockout against Muay Thai veteran , Lina Lansberg.
+
+<strong>And here are 4 things you can expect for UFC Fight Night 95</strong>
+
+<h2>1 - Win by submission for Gilbert Burns</h2>
+
+<iframe src="http://live.fightanalytics.cc/fights/57e09e90a2c25ca25915b8f5/fightanalytics" width="100%" height="405" frameborder="0"></iframe>
+
+Gilbert Burns (11-1) is an international caliber jiu-jitsu fighter. The Blackzilians product won 4 of his 5 fights under the banner of the UFC. In his last confrontation, "Durinho" managed to fit an armbar against the young Polish fighter Lukasz Sajewski. Of the 7 submissions wins by Burns, 5 were by armbar.
+
+<h4>Gilbert Burns x Łukasz Sajewski (07/07/2016)</h4>
+
+<iframe src="http://live.fightanalytics.cc/fights/577a9aba9f0e9d0c09671f87/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+<h2>2 - Redemption or Nelson Silva</h2>
+
+<iframe src="http://live.fightanalytics.cc/fights/57e0a288a2c25ca25915b8f9/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+Two veterans of the heavyweight UFC will clash on Saturday! However, Roy Nelson and Antonio Silva against the wall, neither can accumulate no more defeat.
+
+Nelson, now 40, won only 2 of his last 8 fights. On the other hand, Silva saw his durability decrease after the ban of TRT (testosterone replacement therapy), losing four fights by knockout in the first round on the last two years. This is a life or death struggle for both athletes.
+
+
+<h4>Nelson vs. Derrick Lewis (07/07/2016)</h4>
+<iframe src="http://live.fightanalytics.cc/fights/577aa84e9f0e9d0c09671f96/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+<h4>Antonio Silva vs. Stefan Struve (05/08/2016)</h4>
+<iframe src="http://live.fightanalytics.cc/fights/572910e09f0e9d0c09671c96/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+<h2>3 - A war between Francisco Trinaldo and Paul Felder</h2>
+
+<iframe src="http://live.fightanalytics.cc/fights/57e0a0e5a2c25ca25915b8f8/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+Francisco Trinaldo steps in to the Octagon with a record of 20-4, and 10-3 in the UFC as Felder has a 12-2 cartel in his career, 4-2 in the UFC. Felder comes from defeat to Daron Cruickshank in January. Trinaldo comes from a winning streak of 6 wins, raising his record inside the UFC 3 w 4 d to 10 wins and only 3 losses.
+
+Both athletes have similar abilities in terms of striking, the advantage may come in ground fighting since Trinaldo has 5 wins by submission.
+
+<h4>Francisco Trinaldo x Yancy Medeiros (14/05/2016)</h4>
+<iframe src="http://live.fightanalytics.cc/fights/573121699f0e9d0c09671ca0/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+<h4>Joshua Burkman x Paul Felder (24/09/2016)</h4>
+<iframe src="http://live.fightanalytics.cc/fights/574b58ef9f0e9d0c09671f57/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+<h2>4 - Wins by KO Cris Cyborg.</h2>
+
+<iframe src="http://live.fightanalytics.cc/fights/57e0a3a6a2c25ca25915b8fc/fightanalytics" width="100%" height="425" frameborder="0"></iframe>
+
+At 31, Cris Cyborg, is now the most physically imposing fighter in MMA history. Her power is complementary to her exceptional technical moves. 14 wins by knockout in 16 pro fights proves Cyborg efficiency.
+
+Lansberg has a 7 professional MMA fights, however she is a veteran in the Muay Thai world with 80 fights on her record. Still, the Swedish fighter should be no match for Cyborg.
+
+<a href="/2016/09/21/UFC-Fight-Night-95-live-results-and-fight-stats.html" class="btn btn-primary btn-lg btn-block">Check all the fights for UFC Fight Night 95</a>
+
+-- 
+
+<strong>Fábio de Brito</strong><br>
+CEO - Fight Analytics<br>
+http://fightanalytics.cc

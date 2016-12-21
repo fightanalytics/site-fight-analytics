@@ -1,0 +1,177 @@
+---
+layout: post
+title:  "Fight Analytics predictions and picks for The Ultimate Fighter 24 Finale"
+date:   2016-11-29 12:16:53 -0300
+imgthumb: http://i.imgur.com/2aylPdJ.png
+imgpost: http://i.imgur.com/XDSeWEk.png
+event: The Ultimate Fighter 24 Finale
+category: stats-center
+author: Fábio de Brito - CEO Fight Analytics
+---
+
+<h2>Joseph Benavidez x Henry Cejudo</h2>
+<iframe src="http://live.fightanalytics.cc/fights/583ce74c37d8963a78483d55/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+
+<p>Very very difficult fight to predict. Both very strong athletes with great power on their hands. However based on their record is hard no to go with OVER.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>UNDER / OVER:</strong> Over</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Jake Ellenberger x Jorge Masvidal</h2>
+<iframe src="http://live.fightanalytics.cc/fights/583ce72e37d8963a78483d54/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Jake performed better than Masvidal on his last fight.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER:</strong> Jake Ellenberger</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Ion Cutelaba x Jared Cannonier</h2> 
+<iframe src="http://live.fightanalytics.cc/fights/583ce71237d8963a78483d53/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Strong fighters with very powerful strike game. I'm going with UNDER and guessing Cutelaba will get the win. </p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER: </strong>Ion Cutelaba - <strong>UNDER / OVER:</strong> Under</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Sara McMann x Alexis Davis</h2> 
+<iframe src="http://live.fightanalytics.cc/fights/583ce6fe37d8963a78483d52/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>The solid strike game from Sara Mcmann will play a part on this fight however I'm going with Alexis Davis experience and foot work.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER: </strong>Alexis Davis - <strong>UNDER / OVER:</strong> Over</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Gray Maynard vs Ryan Hall</h2> 
+<iframe src="http://live.fightanalytics.cc/fights/583ce6e437d8963a78483d51/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Fighter going through different phases. Ryan looks fresher, however I see Maynard experience and wrestling playing a part on this fight.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER:</strong> Gray Maynard - <strong>UNDER / OVER:</strong> Over</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Kailin Curran VS Jamie Moyle</h2>  
+<iframe src="http://live.fightanalytics.cc/fights/583ce6c337d8963a78483d50/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Kailin moves very well both offensive and defensive. Jamie Moyle has an excellent record from Invicta. I'm going with Kailin for her well posted strike game.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER:</strong> Kailin Curran - <strong>UNDER / OVER:</strong> Over</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Josh Stansbury x Devin Clark</h2>
+<iframe src="http://live.fightanalytics.cc/fights/583ce6fe37d8963a78483d52/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Both fighter tough fighters with good records from different leagues. However I don't see consistent enough from any side for this fight finishes quick.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>UNDER / OVER:</strong> Over</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Elvis Mutapcic x Anthony Smith</h2>
+<iframe src="http://live.fightanalytics.cc/fights/583ce6a237d8963a78483d4f/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>I'm going with Anthony kicks and strength. Both fighters do not finish their bouts quick.</p>
+
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER:</strong> Anthony Smith - <strong>UNDER / OVER:</strong> Over</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<h2>Dong 'Maestro' Kim x Brendan O'Reilly</h2>  
+<iframe src="http://live.fightanalytics.cc/fights/583ce63637d8963a78483d4d/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Both Dong Kim and O'Reilly come from losses. O'REILLY can be precautious and got some solid punches from stand up and top positions. Under I’m guessing because I can see some holes on both fighter's games where both man can capitalized on it.</p>
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>WINNER: </strong>Brendan O'Reilly - <strong>UNDER / OVER:</strong> Under</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+            
+<h2>Brandon Moreno x Ryan Benoit</h2>  
+<iframe src="http://live.fightanalytics.cc/fights/583ce61437d8963a78483d4c/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>I'm only sure it will be a great battle. Both young and well rounded prospects. My pick is Moreno tight and offensive grappling game.</p>
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>UNDER / OVER:</strong> Under</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+<br>
+
+<h2>Rob Font x Matt Schnell</h2>
+<iframe src="http://live.fightanalytics.cc/fights/583ce5e737d8963a78483d4b/fight-analytics2" width="100%" height="435" frameborder="0"></iframe>
+<p>Another great fight to watch. Font and Perez are very serious when they mean to finish their business quick.</p>
+<div class="well">
+	<h5>PICK:</h5>
+	<p><strong>UNDER / OVER:</strong> Under</p>
+</div>
+
+<br>
+
+<div style="text-align: center;"> - - -</div>
+
+
+<br><br>
+
+<div class="sign">
+	<div style="line-height: 19px">
+		<strong>
+			<img align="none" height="80" src="https://gallery.mailchimp.com/5cae10e10871b3ddcfd442ba5/images/dc2f5783-e4a0-413b-b011-889370be8623.png" style="width: 80px; height: 80px; float: left; margin: 0px 10px 0px 0px;" width="80" />
+			F&aacute;bio de Brito
+		</strong>
+		<br />
+		<span style="font-size:12px">
+			CEO - Fight Analytics
+		</span>
+		<br />
+		<span style="font-size:12px">
+			<a href="http://fightanalytics.cc" target="_blank">http://fightanalytics.cc</a>
+		</span>
+		<br />
+		<a class="no-link" href="https://www.linkedin.com/in/debritofabio" target="_blank">
+			<img align="none" height="20" src="https://gallery.mailchimp.com/5cae10e10871b3ddcfd442ba5/images/e9020b66-dd24-45da-a39c-8c9efe917801.png" style="width: 20px; height: 20px; margin: 0px;" width="20" />
+		</a>
+	</div>
+</div>

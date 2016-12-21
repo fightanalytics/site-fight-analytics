@@ -1,0 +1,33 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
+  <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="{{ "/js/bootstrap.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/jquery.cycle2.min.js" | prepend: site.baseurl }}"></script>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  
+  <!-- Chrome, Firefox OS and Opera -->
+  <meta name="theme-color" content="#1bd2e6 ">
+  <!-- Windows Phone -->
+  <meta name="msapplication-navbutton-color" content="#1bd2e6 ">
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({
+     google_ad_client: "ca-pub-4876609129804621",
+     enable_page_level_ads: true
+   });
+  </script>
+
+</head>
