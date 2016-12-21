@@ -12,9 +12,10 @@ permalink: /pricing/
                 <div class="col-md-12">
                     <div class="text-container col-md-8">
                         <h1>Pricing</h1>
-                        <h3>Clear pricing plans for MMA fans and sites of all sizes. No annual contract or credit card required.</h3>
+                        <h3>Start engage all your MMA fans with the most
+                        effective product for your website.</h3>
                     </div>
-                </div> 
+                </div>
             </div>
         </div>
     </article>
@@ -23,40 +24,12 @@ permalink: /pricing/
         <div class="container">
 
             <div class="header-section">
-<!--                 <h2 class="title-header-section">Find a plan that's work for you:</h2>
- -->                <h2 class="title-header-section">Fight Analytics plans:</h2>
-                <p class="subtitle-header-section"></p>
             </div>
 
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <!-- item -->
-                    <div class="col-md-6 text-center">
-                        <div class="panel panel-default panel-pricing">
-                            <div class="panel-heading">
-                                <br>
-                                <i class="fa fa-5x fa-user"></i>
-                                <h3>MMA FAN</h3>
-                            </div>
-                            <div class="panel-body text-center">
-                                <h2>Free</h2>
-                            </div>
-                            <div class="panel-footer">
-                                <a class="btn btn-md btn-block btn-primary" href="http://manager.fightanalytics.cc/users/mma-fan">Sign up for free</a>
-                            </div>
-                            <ul class="list-group text-center">
-                                <li class="list-group-item"> All fights and events</li> 
-                                <li class="list-group-item"> Personal use</li>
-                                <li class="list-group-item"> Dashboard</li>
-                            </ul>
-                            <div class="panel-footer">
-                                <a class="btn btn-md btn-block btn-primary" href="http://manager.fightanalytics.cc/users/mma-fan">Sign up for free</a> 
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /item -->
-                    <!-- item -->
-                    <div class="col-md-6 text-center">
+                    <div class="col-md-12 text-center">
                         <div class="panel panel-default panel-pricing">
                             <div class="panel-heading">
                                 <br>
@@ -98,14 +71,14 @@ permalink: /pricing/
                     <div class="header-section">
                        <!-- <h2 class="title-header-section">FAQ</h2>
                         <p class="subtitle-header-section"><strong>1 - Its in real time for real?</strong> <br> We combine real time monitoring statistics of every fight, specialized data and a innovative technology behind it. </p>
-                        
+
                         <p class="subtitle-header-section"><strong>2 - Its in real time for real?</strong> <br> We combine real time monitoring statistics of every fight, specialized data and a innovative technology behind it. </p>
 -->
                         <p>For samples of how you can use our products, access our <a href="/stats-center">UFC Stats Center</a> area or <a href="/talk-to-a-sales-rep">talk to a sales rep</a>.</p>
                     </div>
                 </div>
 
-            </div> 
+            </div>
 
         </div>
     </section>
@@ -139,7 +112,7 @@ permalink: /pricing/
                                         </footer>
                                     </blockquote>
                                 </div>
-                            </div><!-- 
+                            </div><!--
                             <div class="item">
                                 <div class="client-logo">
                                     <img src="/images/mmajunkie-logo.png" alt="MMAJunkie - Testemunial for Fight Analytics">
@@ -170,7 +143,7 @@ permalink: /pricing/
                         </a> -->
 
                     </div>
-                    
+
                 </section>
 </div>
 

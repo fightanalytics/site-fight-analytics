@@ -4,13 +4,13 @@ title: About Fight Analytics - MMA Stats
 permalink: /about-us/
 ---
 
-<div class="inner-page about-us">    
+<div class="inner-page about-us">
 
     <article id="page" class="page jumbotron">
         <div class="container">
             <div class="row">
                 <div class="text-container col-md-8 col-md-offset-2">
-                    <iframe src="https://docs.google.com/presentation/d/1IYMsYObVQ9hYmmhq0FIai9nN_H92pxF2qFlvWE5G3y4/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+                    <iframe src="https://docs.google.com/presentation/d/1IYMsYObVQ9hYmmhq0FIai9nN_H92pxF2qFlvWE5G3y4/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                 </div>
             </div>
         </div>
@@ -201,6 +201,7 @@ permalink: /about-us/
                 <p>We understand mixed martial arts because we train and we live it. Come fight with us.</p>
                 <br>
                 <br>
+              </div>
         </article>
 
     </section>
@@ -263,7 +264,7 @@ permalink: /about-us/
 
         </article>
 
-    </section> 
+    </section>
 
     <br><br>
 
@@ -294,7 +295,7 @@ permalink: /about-us/
                             </footer>
                         </blockquote>
                     </div>
-                </div><!-- 
+                </div><!--
                 <div class="item">
                     <div class="client-logo">
                         <img src="/images/mmajunkie-logo.png" alt="MMAJunkie - Testemunial for Fight Analytics">
@@ -325,7 +326,7 @@ permalink: /about-us/
             </a> -->
 
         </div>
-        
+
     </section>
 
     <!-- <section class="features">
