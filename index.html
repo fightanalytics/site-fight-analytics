@@ -31,7 +31,7 @@ layout: default
     <div class="container">
         <div class="col-md-7">
             <p style="margin: 10px 0px 0px;"><strong>Last updates</strong></p>
-            <p style="margin: 10px 0px 10px;">Changelog: {% for post in site.categories.changelog %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>{% endfor %}</p>
+            <p style="margin: 10px 0px 10px;">Changelog: {% for post in site.categories.changelog  limit:1 %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>{% endfor %}</p>
             <p style="margin: 0px 0px 10px;">From the blog: {% for post in site.categories.stats-center limit:1 %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>{% endfor %}</p>
         </div>
         <div class="col-md-5">
