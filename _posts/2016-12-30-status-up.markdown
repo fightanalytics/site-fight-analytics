@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Server issue"
+title:  "[SERVER STATUS] Server is now back up"
 date:   2016-12-30 04:35:53 -0300
 imgthumb: 
 imgpost: 
@@ -9,9 +9,9 @@ category: changelog
 ---
 
 
-<h2>Server issue</h2>
+<h2>Server offline</h2>
 
-<p>Between the UFC 207 users were experiencing issues accessing our iframes via mobile and web.</p>
+<p>During UFC 207 some users were experiencing issues accessing our iframes via mobile and web.</p>
 
 <p>This issue has now been resolved. We apologize for any inconvenience.</p>
 
