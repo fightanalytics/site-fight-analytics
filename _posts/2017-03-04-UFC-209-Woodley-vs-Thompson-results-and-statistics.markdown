@@ -9,8 +9,9 @@ category: stats-center
 ---
 
 <iframe
-src="https://live.fightanalytics.cc/?live=true/#!/events/58b083b84022e6171503d0c3/new/iframe"
+src="https://live.fightanalytics.cc/?live=true/#!/events/58b064ee4022e6171503d0c2/new/1-fight-analytics"
 width="100%" height="1500" frameborder="0"></iframe>
+
 
 -- 
 
