@@ -32,8 +32,8 @@ layout: default
     <div class="container">
         <div class="col-md-7">
             <p style="margin: 10px 0px 0px;"><strong>Last updates</strong></p>
-            <p style="margin: 10px 0px 10px;">Changelog: {% for post in site.categories.changelog  limit:1 %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>{% endfor %}</p>
-            <p style="margin: 0px 0px 10px;">From the blog: {% for post in site.categories.stats-center limit:1 %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>{% endfor %}</p>
+<!--             <p style="margin: 10px 0px 10px;">Changelog: {% for post in site.categories.changelog  limit:1 %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>{% endfor %}</p>
+ -->            <p style="margin: 0px 0px 10px;">{% for post in site.categories.stats-center limit:2 %}<a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a> <br>{% endfor %}</p>
         </div>
         <div class="col-md-5">
             <p style="margin: 10px 0px 0px;"><strong>Like us</strong></p>
@@ -196,10 +196,10 @@ layout: default
                 <div class="col-sm-4">
                   <div class="text text-2">
                     <div class="header-text">
-                        <h3>UFC Live Stats</h3>
+                        <h3>Event Widget</h3>
                     </div>
-                    <p>UFC Live Stats is a embed tool that provides all UFC fight stats directly on your website or mobile app with a single iframe.</p>
-                    <p><a href="/products" class="btn btn-md btn-primary">See our products</a></p>
+                    <p>UFC Event Widget is a embed toll that provides all UFC fights stats directly on your website or mobile app with a single iframe.</p>
+                    <p><a href="/stats-center/UFC-208-Holm-vs-de-Randamie-results-and-statistics/" class="btn btn-md btn-primary">Watch a example on our blog</a></p>
                   </div>
                 </div>
               </div>
@@ -210,10 +210,10 @@ layout: default
                 <div class="col-sm-4">
                   <div class="text text-2">
                     <div class="header-text">
-                        <h3>UFC Fight Stats</h3>
+                        <h3>Fight Widget</h3>
                     </div>
-                    <p>With UFC Fight Stats you have the freedom to embed all the stats fight per fight.</p>
-                    <p><a href="/products" class="btn btn-md btn-primary">See our products</a></p>
+                    <p>With UFC Fight Widget you have the freedom to embed all the stats fight per fight.</p>
+                    <p><a href="/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/" class="btn btn-md btn-primary">Watch a example on our blog</a></p>
                   </div>
                 </div>
                 <div class="col-sm-8">
@@ -264,7 +264,7 @@ layout: default
                         <h3>Fight Analytics Dashboard</h3>
                     </div>
                     <p>Our dashboard show a list of all the products and iframes in our database! Also, you can search for fighter and event. </p>
-                    <p><a href="/products" class="btn btn-md btn-primary">See our products</a></p>
+                    <p><a href="http://manager.fightanalytics.cc/users/sign_up" class="btn btn-md btn-primary">Start a free trial right now</a></p>
                   </div>
                 </div>
 

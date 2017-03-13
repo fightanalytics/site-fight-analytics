@@ -127,12 +127,11 @@ permalink: /products/
                         <div class="col-sm-4">
                             <div class="text text-1">
                                 <div class="header-text">
-                                    <h3 class="feature-title">UFC LIVE STATS</h3>
-<!--                                     <h5>Free tier</h5>
- -->                                </div>
-                                <p>UFC Live Stats is a product that delivers all UFC up-to-the-minute statistics, utilizing a reliability technology with accurate results streamed directly to your audience.</p>
-                                <h4>Sample:</h4>
-                                <p><a href="www.mmaweekly.com/ufc-202-diaz-vs-mcgregor-2-full-live-results-and-fight-stats">MMA Weekly</a></p>
+                                    <h3 class="feature-title">EVENT WIDGET</h3>
+                                </div>
+                                <p>UFC Event Widget is a product that delivers all UFC up-to-the-minute statistics, utilizing a reliability technology with accurate results streamed directly to your audience.</p>
+                                <p><a href="/stats-center/UFC-208-Holm-vs-de-Randamie-results-and-statistics/" class="btn btn-md btn-primary">Watch a example on our blog</a></p>
+                
                             </div>
                         </div>
                       <div class="col-sm-8">
@@ -181,11 +180,10 @@ permalink: /products/
                     <div class="col-sm-4">
                         <div class="text text-2">
                             <div class="header-text">
-                                <h3 class="feature-title">UFC FIGHT STATS</h3>
+                                <h3 class="feature-title">FIGHT WIDGET</h3>
                             </div>
-                            <p>With UFC Fight Stats you have the freedom to embed all the stats fight per fight.</p>
-                            <h4>Sample:</h4>
-                            <p><a href="mmajunkie.com/2016/07/ufc-200-play-by-play-and-live-results">MMA Junkie</a></p>
+                            <p>With UFC Fight Widget you have the freedom to embed all the stats fight per fight.</p>
+                            <p><a href="/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/" class="btn btn-md btn-primary">Watch a example on our blog</a></p>
                         </div>
                     </div>
                   </div>

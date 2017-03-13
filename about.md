@@ -42,6 +42,144 @@ permalink: /about-us/
                         </div>
                     </div>
                     <div class="instagram-pics">
+
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/11260544_1689799567898514_631226224_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@guiguisfoto</span>
+                                    <span class="description">Choose your screen</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/s750x750/sh0.08/e35/17077188_261972720911907_9027823404228542464_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@pedrick77</span>
+                                    <span class="description">who got my back?</span>
+                                </span>
+                            </a>
+                        </div>
+
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/14134901_1712873289037778_1713677839_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@lucasinocente</span>
+                                    <span class="description">Cada um com a sua independência.</span>
+                                </span>
+                            </a>
+                        </div>
+
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/sh0.08/e35/p750x750/15276695_1624156751214208_2380601583630024704_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@lucasinocente</span>
+                                    <span class="description">Respeita this history</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/12825777_1657837271136193_2107653194_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@guiguisfoto</span>
+                                    <span class="description">Dos saltos, makeups e looks pra muita porrada #ufc #ufc196</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/15875683_727851447384781_1856257832807038976_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@lucasinocente</span>
+                                    <span class="description">Javascript e café puros</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/15875760_1014450175326910_7768774434558574592_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@leticiafigueira</span>
+                                    <span class="description">Que todas as ideações e reuniões sejam assim.</span>
+                                </span>
+                            </a>
+                        </div>
+
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/14099474_1730185890564577_393403072_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@lucasinocente</span>
+                                    <span class="description"></span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/15099569_155549574918975_6936149355841716224_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@lucasinocente</span>
+                                    <span class="description">Comemorando mais um dia de trabalho na Fight Analytics</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/14504825_190839531342878_2483806117289787392_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@leticiafigueira</span>
+                                    <span class="description">💪 👊 💞 #voa</span>
+                                </span>
+                            </a>
+                        </div>
+
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/15337134_1834674836791109_9096284092005089280_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@leticiafigueira</span>
+                                    <span class="description">Praticamente um filme de terror B de tanto sangue. #ufcfightnight #asgurias</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/14350704_190489258039434_1659329384_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@snascentef</span>
+                                    <span class="description">Painel novo no ar? VAI TER! #voaFightAnalytics</span>
+                                </span>
+                            </a>
+                        </div>
+                    
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/e35/14693691_1118816571487844_5551581135177252864_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@snascentef</span>
+                                    <span class="description">Tá saindo da jaula o monstro!</span>
+                                </span>
+                            </a>
+                        </div>
+
+
+
                         <div class="col-md-2 col-xs-6 col-sm-3">
                             <a class="pic" href="#">
                                 <img src="https://instagram.fsdu2-1.fna.fbcdn.net/t51.2885-15/sh0.08/e35/p640x640/13413221_1656160108040160_1908389109_n.jpg" alt="">
@@ -78,21 +216,45 @@ permalink: /about-us/
                                 </span>
                             </a>
                         </div>
+
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/s750x750/sh0.08/e35/10608048_487264234771629_1065167055_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@fernandolobao</span>
+                                    <span class="description">#fightanalytics #ufcnocombate</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/s750x750/sh0.08/e35/11356888_1443413589300317_1167489949_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@fernandolobao</span>
+                                    <span class="description">Ta cedo esse UFC ein. #ufcnocombate</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6 col-sm-3">
+                            <a class="pic" href="#">
+                                <img src="https://instagram.fpoa8-1.fna.fbcdn.net/t51.2885-15/s750x750/sh0.08/e35/11313379_1663537363883684_1893524076_n.jpg" alt="">
+                                <span class="hover">
+                                    <span class="user">@fernandolobao</span>
+                                    <span class="description">Voa.</span>
+                                </span>
+                            </a>
+                        </div>
+
+                        
                         <div class="col-md-2 col-xs-6 col-sm-3">
                             <a class="pic" href="#">
                                 <img src="https://instagram.fsdu2-1.fna.fbcdn.net/t51.2885-15/e35/12224471_792404177552319_206453779_n.jpg" alt="">
                                 <span class="hover">
                                     <span class="user">@jesse.melo.18</span>
                                     <span class="description">Treino top de jiu-jitsu finíssimo OSSU!!! #pause #Pretorian #scorpiontatoo #fightanalytics #Fulgare #guethobjj #SNC #synergyfight #lojamma #Porãodaluta #junglefight</span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-xs-6 col-sm-3">
-                            <a class="pic" href="#">
-                                <img src="https://instagram.fsdu2-1.fna.fbcdn.net/t51.2885-15/e35/11875501_657605364380480_516179236_n.jpg" alt="">
-                                <span class="hover">
-                                    <span class="user">@jesse.melo.18</span>
-                                    <span class="description">Treino de bjj insano, obrigado aos brothers #pause #SNC #Fulgare #fightanalytics #guethobjj #scorpiontatoo #lojamma #Pretorian #Porãodaluta #junglefight</span>
                                 </span>
                             </a>
                         </div>
@@ -147,51 +309,6 @@ permalink: /about-us/
                                 <span class="hover">
                                     <span class="user">@olucassanchez</span>
                                     <span class="description"> </span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-xs-6 col-sm-3">
-                            <a class="pic" href="#">
-                                <img src="" alt="">
-                                <span class="hover">
-                                    <span class="user">@olucassanchez</span>
-                                    <span class="description">@ SAP Labs Latin America</span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-xs-6 col-sm-3">
-                            <a class="pic" href="#">
-                                <img src="" alt="">
-                                <span class="hover">
-                                    <span class="user">@olucassanchez</span>
-                                    <span class="description">@ SAP Labs Latin America</span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-xs-6 col-sm-3">
-                            <a class="pic" href="#">
-                                <img src="" alt="">
-                                <span class="hover">
-                                    <span class="user">@olucassanchez</span>
-                                    <span class="description">@ SAP Labs Latin America</span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-xs-6 col-sm-3">
-                            <a class="pic" href="#">
-                                <img src="" alt="">
-                                <span class="hover">
-                                    <span class="user">@olucassanchez</span>
-                                    <span class="description">@ SAP Labs Latin America</span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-xs-6 col-sm-3">
-                            <a class="pic" href="#">
-                                <img src="" alt="">
-                                <span class="hover">
-                                    <span class="user">@olucassanchez</span>
-                                    <span class="description">@ SAP Labs Latin America</span>
                                 </span>
                             </a>
                         </div>
