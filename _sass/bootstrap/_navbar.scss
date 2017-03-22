@@ -11,11 +11,8 @@
 .navbar {
   position: relative;
   min-height: $navbar-height; // Ensure a navbar always shows (e.g., without a .navbar-brand in collapsed mode)
-  // margin-bottom: $navbar-margin-bottom;
-  // border: 1px solid transparent;
-
-
-  text-transform: uppercase;
+  margin-bottom: $navbar-margin-bottom;
+  border: 1px solid transparent;
 
   // Prevent floats from breaking the navbar
   @include clearfix;
@@ -165,7 +162,7 @@
 
 .navbar-brand {
   float: left;
-  padding: $navbar-brand-padding-vertical $navbar-padding-horizontal;
+  padding: $navbar-padding-vertical $navbar-padding-horizontal;
   font-size: $font-size-large;
   line-height: $line-height-computed;
   height: $navbar-height;
@@ -175,11 +172,8 @@
     text-decoration: none;
   }
 
-
-
   > img {
     display: block;
-    height: $navbar-brand-height ;
   }
 
   @media (min-width: $grid-float-breakpoint) {
@@ -202,8 +196,8 @@
   margin-right: $navbar-padding-horizontal;
   padding: 9px 10px;
   @include navbar-vertical-align(34px);
-  // background-color: transparent;
-  // background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+  background-color: transparent;
+  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 1px solid transparent;
   border-radius: $border-radius-base;
 
@@ -219,7 +213,6 @@
     width: 22px;
     height: 2px;
     border-radius: 1px;
-    background-color: black;
   }
   .icon-bar + .icon-bar {
     margin-top: 4px;
@@ -252,7 +245,7 @@
       float: none;
       width: auto;
       margin-top: 0;
-      // background-color: transparent;
+      background-color: transparent;
       border: 0;
       box-shadow: none;
       > li > a,
@@ -263,7 +256,7 @@
         line-height: $line-height-computed;
         &:hover,
         &:focus {
-          // background-image: none;
+          background-image: none;
         }
       }
     }
@@ -388,7 +381,7 @@
   }
   .navbar-right {
     float: right !important;
-    // margin-right: -$navbar-padding-horizontal;
+  margin-right: -$navbar-padding-horizontal;
 
     ~ .navbar-right {
       margin-right: 0;
@@ -402,7 +395,7 @@
 
 // Default navbar
 .navbar-default {
-  // background-color: $navbar-default-bg;
+  background-color: $navbar-default-bg;
   border-color: $navbar-default-border;
 
   .navbar-brand {
@@ -410,7 +403,7 @@
     &:hover,
     &:focus {
       color: $navbar-default-brand-hover-color;
-      // background-color: $navbar-default-brand-hover-bg;
+      background-color: $navbar-default-brand-hover-bg;
     }
   }
 
@@ -421,12 +414,11 @@
   .navbar-nav {
     > li > a {
       color: $navbar-default-link-color;
-      font-weight: bold;
 
       &:hover,
       &:focus {
         color: $navbar-default-link-hover-color;
-        // background-color: $navbar-default-link-hover-bg;
+        background-color: $navbar-default-link-hover-bg;
       }
     }
     > .active > a {
@@ -434,7 +426,7 @@
       &:hover,
       &:focus {
         color: $navbar-default-link-active-color;
-        // background-color: $navbar-default-link-active-bg;
+        background-color: $navbar-default-link-active-bg;
       }
     }
     > .disabled > a {
@@ -442,7 +434,7 @@
       &:hover,
       &:focus {
         color: $navbar-default-link-disabled-color;
-        // background-color: $navbar-default-link-disabled-bg;
+        background-color: $navbar-default-link-disabled-bg;
       }
     }
   }
@@ -451,10 +443,10 @@
     border-color: $navbar-default-toggle-border-color;
     &:hover,
     &:focus {
-      // background-color: $navbar-default-toggle-hover-bg;
+      background-color: $navbar-default-toggle-hover-bg;
     }
     .icon-bar {
-      // background-color: $navbar-default-toggle-icon-bar-bg;
+      background-color: $navbar-default-toggle-icon-bar-bg;
     }
   }
 
@@ -470,7 +462,7 @@
       &,
       &:hover,
       &:focus {
-        // background-color: $navbar-default-link-active-bg;
+        background-color: $navbar-default-link-active-bg;
         color: $navbar-default-link-active-color;
       }
     }
@@ -483,7 +475,7 @@
           &:hover,
           &:focus {
             color: $navbar-default-link-hover-color;
-            // background-color: $navbar-default-link-hover-bg;
+            background-color: $navbar-default-link-hover-bg;
           }
         }
         > .active > a {
@@ -491,7 +483,7 @@
           &:hover,
           &:focus {
             color: $navbar-default-link-active-color;
-            // background-color: $navbar-default-link-active-bg;
+            background-color: $navbar-default-link-active-bg;
           }
         }
         > .disabled > a {
@@ -499,7 +491,7 @@
           &:hover,
           &:focus {
             color: $navbar-default-link-disabled-color;
-            // background-color: $navbar-default-link-disabled-bg;
+            background-color: $navbar-default-link-disabled-bg;
           }
         }
       }
@@ -538,39 +530,14 @@
 
 .navbar-inverse {
   background-color: $navbar-inverse-bg;
-
-  border: 0px;
-
-  -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-
-  .get-in-touch {
-      padding: 13px 40px !important;
-      text-align: center;
-      color: #fff !important;
-      margin-top: 10px;
-      display: block !important;
-      margin-left: 15px;
-      span {
-          display: inline;
-      }
-  }
-
+  border-color: $navbar-inverse-border;
 
   .navbar-brand {
     color: $navbar-inverse-brand-color;
-    padding: 15px;
-    height: 42px;
-
-    img {
-      height: 48px;
-    }
-
     &:hover,
     &:focus {
       color: $navbar-inverse-brand-hover-color;
-      // background-color: $navbar-inverse-brand-hover-bg;
+      background-color: $navbar-inverse-brand-hover-bg;
     }
   }
 
@@ -578,23 +545,14 @@
     color: $navbar-inverse-color;
   }
 
-  .navbar {
-     min-height: 75px;
-  }
-
-
   .navbar-nav {
     > li > a {
-
       color: $navbar-inverse-link-color;
-      padding: 25px 15px;
-      font-weight: bold;
-     
 
       &:hover,
       &:focus {
         color: $navbar-inverse-link-hover-color;
-        // background-color: $navbar-inverse-link-hover-bg;
+        background-color: $navbar-inverse-link-hover-bg;
       }
     }
     > .active > a {
@@ -602,7 +560,7 @@
       &:hover,
       &:focus {
         color: $navbar-inverse-link-active-color;
-        // background-color: $navbar-inverse-link-active-bg;
+        background-color: $navbar-inverse-link-active-bg;
       }
     }
     > .disabled > a {
@@ -610,7 +568,7 @@
       &:hover,
       &:focus {
         color: $navbar-inverse-link-disabled-color;
-        // background-color: $navbar-inverse-link-disabled-bg;
+        background-color: $navbar-inverse-link-disabled-bg;
       }
     }
   }
@@ -620,10 +578,10 @@
     border-color: $navbar-inverse-toggle-border-color;
     &:hover,
     &:focus {
-      // background-color: $navbar-inverse-toggle-hover-bg;
+      background-color: $navbar-inverse-toggle-hover-bg;
     }
     .icon-bar {
-      // background-color: $navbar-inverse-toggle-icon-bar-bg;
+      background-color: $navbar-inverse-toggle-icon-bar-bg;
     }
   }
 
@@ -638,7 +596,7 @@
       &,
       &:hover,
       &:focus {
-        // background-color: $navbar-inverse-link-active-bg;
+        background-color: $navbar-inverse-link-active-bg;
         color: $navbar-inverse-link-active-color;
       }
     }
@@ -650,14 +608,14 @@
           border-color: $navbar-inverse-border;
         }
         .divider {
-          // background-color: $navbar-inverse-border;
+          background-color: $navbar-inverse-border;
         }
         > li > a {
           color: $navbar-inverse-link-color;
           &:hover,
           &:focus {
             color: $navbar-inverse-link-hover-color;
-            // background-color: $navbar-inverse-link-hover-bg;
+            background-color: $navbar-inverse-link-hover-bg;
           }
         }
         > .active > a {
@@ -665,7 +623,7 @@
           &:hover,
           &:focus {
             color: $navbar-inverse-link-active-color;
-            // background-color: $navbar-inverse-link-active-bg;
+            background-color: $navbar-inverse-link-active-bg;
           }
         }
         > .disabled > a {
@@ -673,7 +631,7 @@
           &:hover,
           &:focus {
             color: $navbar-inverse-link-disabled-color;
-            // background-color: $navbar-inverse-link-disabled-bg;
+            background-color: $navbar-inverse-link-disabled-bg;
           }
         }
       }
@@ -699,23 +657,6 @@
       &:focus {
         color: $navbar-inverse-link-disabled-color;
       }
-    }
-  }
-}
-
-
-
-// static 
-
-.navbar-static {
-  .get-in-touch {
-    padding: 13px 40px !important;
-    text-align: center;
-    color: #fff !important;
-    margin-top: 10px;
-    display: block !important;
-    span {
-        display: inline;
     }
   }
 }

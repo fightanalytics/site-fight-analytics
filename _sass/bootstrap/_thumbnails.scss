@@ -10,13 +10,9 @@
   margin-bottom: $line-height-computed;
   line-height: $line-height-base;
   background-color: $thumbnail-bg;
-  //border: 1px solid $thumbnail-border;
+  border: 1px solid $thumbnail-border;
   border-radius: $thumbnail-border-radius;
   @include transition(border .2s ease-in-out);
-
-  -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
 
   > img,
   a > img {
@@ -29,11 +25,8 @@
 
   // Image captions
   .caption {
+    padding: $thumbnail-caption-padding;
     color: $thumbnail-caption-color;
-    p,
-    h3 { 
-      padding: $thumbnail-caption-padding;
-    }
   }
 }
 

@@ -20,22 +20,6 @@
   @include button-size($padding-base-vertical, $padding-base-horizontal, $font-size-base, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
 
-  -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-
-  strong {
-    text-transform: uppercase;
-  }
-
-  span.subtext {
-    display: block;
-    font-size: 15px;
-    font-weight: normal;
-    top: -3px;
-    position: relative;
-  }
-
   &,
   &:active,
   &.active {
@@ -149,8 +133,8 @@ a.btn {
 // --------------------------------------------------
 
 .btn-lg {
-  line-height: 1.05;
-  @include button-size($padding-large-vertical, $padding-large-horizontal, 27px, $line-height-large, $btn-border-radius-large);
+  // line-height: ensure even-numbered height of button next to large input
+  @include button-size($padding-large-vertical, $padding-large-horizontal, $font-size-large, $line-height-large, $btn-border-radius-large);
 }
 .btn-sm {
   // line-height: ensure proper height of button next to small input

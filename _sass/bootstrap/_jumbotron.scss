@@ -4,49 +4,21 @@
 
 
 .jumbotron {
-  padding-top:    $jumbotron-padding + $navbar-height;
-  padding-bottom: $jumbotron-padding + $navbar-height;
-  // margin-bottom: $jumbotron-padding;
-  color: #fff;
+  padding-top:    $jumbotron-padding;
+  padding-bottom: $jumbotron-padding;
+  margin-bottom: $jumbotron-padding;
+  color: $jumbotron-color;
   background-color: $jumbotron-bg;
-
-  position: relative;
-
-  .fa-angle-down,
-  .fa-circle-thin {
-    position: absolute;
-    bottom: 30px;
-    left: 50%;
-    margin-left: -10px;
-    font-size: 30px;
-  }
-
-  .fa-angle-down {
-    margin-left: -4px;
-    font-size: 21px;
-    bottom: 35px;
-  }
-
-  .text-container {
-  }
 
   h1,
   .h1 {
-    color: #fff;
-    font-weight: 700;
-  }
-
-  h2,
-  .h2 {
-    font-size: $jumbotron-heading-font-size / 2;
-    margin-bottom: 30px;
+    color: $jumbotron-heading-color;
   }
 
   p {
     margin-bottom: ($jumbotron-padding / 2);
     font-size: $jumbotron-font-size;
     font-weight: 200;
-    margin-bottom: 30px;
   }
 
   > hr {
@@ -65,8 +37,8 @@
   }
 
   @media screen and (min-width: $screen-sm-min) {
-    padding-top:    ($jumbotron-padding + $navbar-height);
-    padding-bottom: ($jumbotron-padding + $navbar-height);
+    padding-top:    ($jumbotron-padding * 1.6);
+    padding-bottom: ($jumbotron-padding * 1.6);
 
     .container &,
     .container-fluid & {

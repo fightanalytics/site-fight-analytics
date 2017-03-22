@@ -7,7 +7,7 @@
 .well {
   min-height: 20px;
   padding: 19px;
-  // margin-bottom: 20px;
+  margin-bottom: 20px;
   background-color: $well-bg;
   border: 1px solid $well-border;
   border-radius: $border-radius-base;
@@ -26,10 +26,4 @@
 .well-sm {
   padding: 9px;
   border-radius: $border-radius-small;
-}
-
-.well-dark {
-  background-color: $gray-darker;
-  color: #fff;
-  border: 0px;
 }
