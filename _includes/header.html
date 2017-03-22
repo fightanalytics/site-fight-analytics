@@ -1,47 +1,42 @@
-<header class="navbar-fixed-top" id="nav-fixed-top">
+<header class="navbar-fixed-top">
     <nav class="navbar navbar-default">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="/">
                     <img alt="Fight Analytics - MMA Stats" src="{{ '/images/fight-analytics-logo.png' | prepend: site.baseurl }}">
                 </a>
             </div>
-            <div class="navbar-right">
-                <ul class="nav navbar-nav collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <!-- {% for my_page in site.pages %}
-                        {% if my_page.title %}
-                            <li>
-                                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-                            </li>
-                        {% endif %}
-                    {% endfor %}
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Languages <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a class="page-link" href="#">English</a>
-                                <a class="page-link" href="#">Español</a>
-                                <a class="page-link" href="#">Português</a>
-                            </li>
-                        </ul>
-                    </li> -->
-                    <!-- <li>
-                        <a class="page-link" href="/how-it-works">HOW IT WORKS</a>
-                    </li> -->
+            <div class="navbar-left">
+                 <ul class="nav navbar-nav collapse navbar-collapse">
+                    <li>
+                        <a class="page-link" href="/products">PRODUCTS</a>
+                    </li>
                     <li>
                         <a class="page-link" href="/about-us">ABOUT</a>
                     </li>
                     <li>
-                        <a class="page-link" href="/talk-to-us">CONTACT US</a>
+                        <a class="page-link" href="/stats-center">BLOG</a>
                     </li>
                     <li>
-                        <a class="page-link btn btn-md btn-primary get-in-touch" href="/free-trial">FREE TRIAL</a>
+                        <a class="page-link" href="/talk-to-a-sales-rep">TALK TO A SALES REP</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="navbar-right">
+                <ul class="nav navbar-nav collapse navbar-collapse">
+                    <li>
+                        <span>
+                            <a class="page-link btn btn-md btn-primary get-in-touch" href="http://manager.fightanalytics.cc/users/sign_up">Sign Up</a>
+                        </span>
+                    </li>
+                    <li>
+                        <a class="page-link" href="http://manager.fightanalytics.cc/">Log In</a>
                     </li>
                 </ul>
             </div>
