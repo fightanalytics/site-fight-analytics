@@ -1,0 +1,46 @@
+//
+// Jumbotron
+// --------------------------------------------------
+
+
+.jumbotron {
+
+  color: #fff;
+  margin-bottom: 0px;
+
+  .fa-angle-down,
+  .fa-circle-thin {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -10px;
+    font-size: 30px;
+  }
+
+  .fa-angle-down {
+    margin-left: -4px;
+    font-size: 21px;
+    bottom: 35px;
+  }
+
+  h1,
+  .h1 {
+    color: #fff;
+    font-weight: 700;
+  }
+
+  h2,
+  .h2 {
+    font-size: $jumbotron-heading-font-size / 2;
+    margin-bottom: 30px;
+  }
+
+  p {
+    margin-bottom: ($jumbotron-padding / 2);
+    font-size: $jumbotron-font-size;
+    font-weight: 200;
+    margin-bottom: 30px;
+  }
+
+
+}

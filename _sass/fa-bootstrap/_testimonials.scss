@@ -1,0 +1,64 @@
+//
+// Testimonials
+// --------------------------------------------------
+
+
+.testimonials {
+
+    text-align: center;
+    background: #1294a2;
+ 
+    .client-logo {
+        max-width: 250px;
+        width: 100%;
+        margin: 60px auto;
+        img {
+            width: 100%;
+        }
+    }
+
+    blockquote {
+
+        border: 0px;
+        margin: 0 auto;
+        max-width: 590px;
+
+        footer {
+            line-height: 1;
+        }
+
+        p {
+            color: #fff;
+            font-size: 30px;
+        }
+
+        cite {
+            color: #fff;
+            font-size: 30px;
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        small {
+            color: #fff;
+            font-size: 18px;
+        }
+
+    }
+
+    .client-img {
+        height: 145px;
+        width: 145px;
+        border: 4px solid white;
+        border-radius: 50%;
+        display: block;
+        overflow: hidden;
+        margin: 25px auto;
+
+        img {
+            display: block;
+            width: 100%;
+        }
+    }
+
+}

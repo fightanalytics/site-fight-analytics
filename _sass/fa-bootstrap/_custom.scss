@@ -1,395 +1,56 @@
-//
-// Navbars
-// --------------------------------------------------
 
-
-// Wrapper and base class
-//
-// Provide a static navbar from which we expand to create full-width, fixed, and
-// other navbar variations.
-
-
-
-
-.navbar {
-  margin-bottom: 0px;
-
-  text-transform: uppercase;
-
-  .get-in-touch {
-      padding: 13px 40px !important;
-      text-align: center;
-      color: #fff !important;
-      margin-top: 10px;
-      display: block !important;
-      margin-left: 15px;
-      span {
-          display: inline;
-      }
-  }
-
+body.body-navbar-fixed-top {
+    padding-top: $navbar-height;
 }
-
-
-// Brand/project name
-
-.navbar-brand {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  > img {
-    height: $navbar-brand-height;
-  }
-}
-
-
-
-//
-// Buttons
-// --------------------------------------------------
-
-
-// Base styles
-// -
-
-.btn {
-
-  -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-  box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-
-  strong,
-  span.strong {
-    text-transform: uppercase;
-  }
-
-  span.subtext {
-    display: block;
-    font-size: 15px;
-    font-weight: normal;
-    top: -3px;
-    position: relative;
-  }
-
-}
-
-
-
-// Button Sizes
-// --------------------------------------------------
-
-.btn-lg {
-  line-height: 1.05;
-  @include button-size($padding-large-vertical, $padding-large-horizontal, 27px, $line-height-large, $btn-border-radius-large);
-}
-
-
-//
-// Jumbotron
-// --------------------------------------------------
-
-
-.jumbotron {
-
-  color: #fff;
-  margin-bottom: 0px;
-
-  .fa-angle-down,
-  .fa-circle-thin {
-    position: absolute;
-    bottom: 30px;
-    left: 50%;
-    margin-left: -10px;
-    font-size: 30px;
-  }
-
-  .fa-angle-down {
-    margin-left: -4px;
-    font-size: 21px;
-    bottom: 35px;
-  }
-
-  h1,
-  .h1 {
-    color: #fff;
-    font-weight: 700;
-  }
-
-  h2,
-  .h2 {
-    font-size: $jumbotron-heading-font-size / 2;
-    margin-bottom: 30px;
-  }
-
-  p {
-    margin-bottom: ($jumbotron-padding / 2);
-    font-size: $jumbotron-font-size;
-    font-weight: 200;
-    margin-bottom: 30px;
-  }
-
-
-}
-
-
-//
-// Wells
-// --------------------------------------------------
-
-.well-dark {
-  background-color: $gray-darker;
-  color: #fff;
-  border: 0px;
-}
-
-
-
-//
-// Mockups
-// --------------------------------------------------
-
-
-.mockup {
-    border: 2px solid #7F8184;
-    background: white;
-    border-radius: 5px;
-
-    -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-    -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-
-    .mockup-header {
-        height: 35px;
-        padding: 7px 0px;
-        border-bottom: 1px solid #7F8184;
-        overflow: hidden;
-
-        .glyphicon,
-        .fa {
-            color: #E6E7E8;
-            margin-top: 1px;
-            margin-right: 12px;
-            font-size: 16px;
-        }
-
-        .mc-button-group {
-            padding: 4px 28px;
-            height: 12px;
-            position: relative;
-            float: left;
-        }
-
-        .mc-button {
-            height: 12px;
-            width: 12px;
-            border-radius: 50%;
-            float: left;
-            margin-right: 6px;
-        }
-
-        .mc-button-order-1 {
-            background: #EF413D;
-        }
-        .mc-button-order-2 {
-            background: #FDB913;
-        }
-        .mc-button-order-3 {
-            background: #50B848;
-        }
-
-        .f-search-group {
-            margin: 0px 45px 0px 104px;
-
-            .f-search-input {
-                background: #E6E7E8;
-                height: 20px;
-                width: 100%;
-                border-radius: 10px;
-            }
-
-        }
-
-    }
-
-    .mockup-body {
-
-        img {
-            width: 100%;
-        }
-
-    }
-
-}
-
 
 //
 // Other things we need modularize
 // ------------------------------------------
 
-
-.text-container {
-    .btn-lg {
-        font-size: 20px;
-    }
-}
-
-.img-thumb {
-    overflow: hidden;
-    display: block;
-}
+// insights: 
+// - acho que os compnentes precisam ter alguma margem entre eles, o .header-section usava 60px de margin top bottom
 
 
+.section {
 
-.header-section {
-    text-align: center;
-    margin: 60px 0px;
+    padding: $navbar-height 0px;
 
-    h2,
-    .title-header-section {
-        color: $brand-primary;
-        font-size: 60px;
-        margin-bottom: 45px;
-        font-weight: 700;
-    }
+    .header-section {
 
-    p,
-    .subtitle-header-section {
-        font-size: 24px;
-        color: $text-color;
-        max-width: 650px;
-        margin: 0 auto;
+        margin-bottom: $navbar-height / 2;
+
+        h1,
+        h2 {
+            color: $brand-primary;
+            font-size: 60px;
+            margin-bottom: 45px;
+            font-weight: 700;
+        }
+
+        p {
+            font-size: 24px;
+            color: $text-color;
+            max-width: 650px;
+            margin: 0 auto;
+        }
     }
     
 }
 
-.features {
 
-    .row {
-        margin: 0px -15px 40px;
-    }
 
-    .glyphicon,
-    .fa {
-        color: $brand-primary;
-    }
-
-    .card-lg {
-        h3,
-        .feature-title {
-            font-size: 30px;
-            font-weight: 700;
-            margin-top: 10px;
-        }
-    }
-
-    .text-align-right {
-        text-align: right;
-    } .text-align-left {
-        text-align: left;
-    }
-
-    .text p {
-        // max-width: 300px;
-        font-size: 20px;
-    }
-
+.fa {
+    color: $brand-primary;
 }
 
-
-.card-sm {
-    text-align: center;
-
-    .fa {
-        margin-bottom: 10px;
-    }
-
-    h3,
-    .feature-title {
-        font-size: 26px;
-    }
-
+.text-align-right {
+    text-align: right;
 }
 
-.testimonials {
-
-    text-align: center;
-    background: #1294a2;
- 
-    .client-logo {
-        max-width: 250px;
-        width: 100%;
-        margin: 60px auto;
-        img {
-            width: 100%;
-        }
-    }
-
-    blockquote {
-
-        border: 0px;
-        margin: 0 auto;
-        max-width: 590px;
-
-        footer {
-            line-height: 1;
-        }
-
-        p {
-            color: #fff;
-            font-size: 30px;
-        }
-
-        cite {
-            color: #fff;
-            font-size: 30px;
-            text-decoration: none;
-            font-weight: 700;
-        }
-
-        small {
-            color: #fff;
-            font-size: 18px;
-        }
-
-    }
-
-    .client-img {
-        height: 145px;
-        width: 145px;
-        border: 4px solid white;
-        border-radius: 50%;
-        display: block;
-        overflow: hidden;
-        margin: 25px auto;
-
-        img {
-            display: block;
-            width: 100%;
-        }
-    }
-
+.text-align-left {
+    text-align: left;
 }
 
-.card-md {
-
-    margin: 60px 0px;
-
-    .caption {
-        h3 {
-            color: $brand-primary;
-            background: #546173;
-            font-size: 21px;
-            margin-top: 0px;
-        }
-        p {
-            font-size: 18px;
-        }
-    }
-
-}
-
-.product-anchor {
-    padding-top: 80px;
-}
 
 footer.footer {
     
@@ -434,95 +95,21 @@ body {
   position: relative;
 }
 
-
-.home .mockup-mobile {
-    position: absolute;
-}
-
-.mockup-mobile {
-    border: 2px solid #7F8184;
-    border-radius: 25px;
-    overflow: hidden;
-    background: white;
-
-    -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-    -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
-
-    .mobile-sensor {
-        height: 5px;
-        width: 5px;
-        border: 1px solid #7F8184;
-        border-radius: 50%;
-        position: absolute;
-        top: 9px;
-        left: 50%;
-        margin-left: -2px;
-    }
-    .mobile-camera {
-        height: 7px;
-        width: 7px;
-        border: 1px solid #7F8184;
-        border-radius: 50%;
-        position: absolute;
-        top: 20px;
-        left: 50%;
-        margin-left: -30px;
-    }
-    .mobile-speaker {
-        height: 4px;
-        width: 30px;
-        border: 1px solid #7F8184;
-        border-radius: 2px;
-        position: absolute;
-        top: 23px;
-        left: 50%;
-        margin-left: -15px;
-    }
-    .mockup-mobile-inner {
-        margin: 45px 10px;
-        border: 1px solid #7F8184;
-        float: left;
-    }
-    .mobile-button {
-        height: 30px;
-        width: 30px;
-        border: 1px solid #7F8184;
-        border-radius: 50%;
-        position: absolute;
-        bottom: 9px;
-        left: 50%;
-        margin-left: -15px;
-    }
+.product-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 
-.home {
+.show-case {
     .mockup-mobile {
+        position: absolute;
         top: 155px;
         right: 40px;
         z-index: 999;
     }
     .mockup-mobile-inner img {
         width: 180px;
-    }
-}
-
-.navbar-landing {
-    min-height: 70px;
-
-    .navbar-brand {
-        position: absolute;
-        left: 50%;
-        margin-left: -150px !important;
-        top: -3px;
-        span.divider-vr {
-            margin: 0px 10px;
-        }
-        > img {
-            display: inline;
-            height: 42px !important;
-        }
     }
 }
 
@@ -618,13 +205,10 @@ body {
     left: 50%;
   }
 
-
-
 }
 
 
 @media (max-width: $screen-sm-min) {
-
 
     .subscribe {
         .form-group {
@@ -635,19 +219,6 @@ body {
     .navbar-inverse .navbar-brand img {
         height: 42px !important;
         margin-top: 10px;
-    }
-
-    .header-text {
-        // overflow: hidden;
-        // i {
-        //     float: left;
-        //     margin-right: 30px !important;
-        // }
-        // h3 {
-        //     float: left;
-        //     margin-top: 0px !important;
-        //     font-size: 28px !important;
-        // }
     }
 
     .btn-lg {
@@ -666,7 +237,7 @@ body {
         padding: 60px 0px !important;
     }
 
-    .home .mockup-mobile {
+    .show-case .mockup-mobile {
         top: 0px !important;
         right: 0px !important;
         position: static;
@@ -681,13 +252,9 @@ body {
         width: 100px;
     }
 
-
-
     .navbar-free-trial .navbar-inverse .navbar-brand {
         top: -13px;
     }
-
-
 
 }
 
@@ -697,11 +264,11 @@ body {
         width: 100%;
     }
 
-    .home .mockup-mobile {
+    .show-case .mockup-mobile {
         top: 35px !important;
         right: 0px !important;;
     }
-    .home .mockup-mobile-inner img {
+    .show-case .mockup-mobile-inner img {
         width: 250px;
     }
 
@@ -727,33 +294,19 @@ body {
         }
     }
 
-
-
     .navbar-inverse .get-in-touch {
         padding: 13px 40px !important;
         margin-top: 20px;
         margin-right: 15px;
     }
 
-    // .navbar-brand {
-    //     width: 100%;
-    //     text-align: center;
-    //     > img {
-    //         display: inline;
-    //     }
-    // }
-
-    .home .mockup-mobile {
+    .show-case .mockup-mobile {
         top: 0px;
         right: 50px;
     } 
 
     .jumbotron {
         padding-top: 95px;
-    }
-
-
-    .page-link.get-in-touch {
     }
 
     .text-container .btn-lg, 
@@ -787,8 +340,6 @@ body {
     }
 }
 
-
-
 .pager-home {
     position: absolute;
     bottom: -50px;
@@ -808,24 +359,6 @@ body {
     }
 }
 
-
-.navbar-brand {
-    margin-left: 0px !important;
-}
-
-
-.inner-page {
-    .jumbotron {
-        padding: 100px 0px 50px !important;
-        margin-bottom: 0px;
-    }
-    .well.well-lg {
-        padding: 50px;
-        h3 {
-            font-size: 40px;
-        }
-    }
-}
 
 .about-us {
 
@@ -936,36 +469,6 @@ body {
 }
 
 
-.subscribe {
-    .free {
-        text-decoration: underline;
-    }
-    background: white !important;
-    h3 {
-        font-size: 30px !important;
-    }
-    .form-control {
-        margin-right: 100px;
-    }
-    #sign-up-subscribe {
-        max-width: 780px;
-        margin: 0 auto;
-    }
-    .form-group {
-            float: left;
-    width: 67%;
-        input {
-            height: 68px;
-            font-weight: bold;
-            color: black;
-            font-size: 25px !important;
-        }
-    }
-    button {
-        float: left;
-    }
-}
-
 .faq {
     .header-section .subtitle-header-section {
         text-align: left;
@@ -1001,8 +504,6 @@ body {
 
 .thank-you {
     text-align: center;
-
-    
 }
 
 

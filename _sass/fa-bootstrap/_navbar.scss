@@ -1,0 +1,63 @@
+//
+// Navbars
+// --------------------------------------------------
+
+
+// Wrapper and base class
+//
+// Provide a static navbar from which we expand to create full-width, fixed, and
+// other navbar variations.
+
+
+
+
+.navbar {
+  margin-bottom: 0px;
+
+  text-transform: uppercase;
+
+  .get-in-touch {
+      padding: 13px 40px !important;
+      text-align: center;
+      color: #fff !important;
+      margin-top: 10px;
+      display: block !important;
+      margin-left: 15px;
+      span {
+          display: inline;
+      }
+  }
+
+}
+
+
+// Brand/project name
+
+.navbar-brand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  > img {
+    height: $navbar-brand-height;
+  }
+}
+
+
+// Navbar for landing pages but I think we need refactory that part
+
+.navbar-landing {
+    min-height: 70px;
+
+    .navbar-brand {
+        position: absolute;
+        left: 50%;
+        margin-left: -150px !important;
+        top: -3px;
+        span.divider-vr {
+            margin: 0px 10px;
+        }
+        > img {
+            display: inline;
+            height: 42px !important;
+        }
+    }
+}

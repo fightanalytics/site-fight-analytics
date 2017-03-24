@@ -1,0 +1,134 @@
+//
+// Mockups
+// --------------------------------------------------
+
+
+.mockup {
+    border: 2px solid #7F8184;
+    background: white;
+    border-radius: 5px;
+
+    -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
+
+    .mockup-header {
+        height: 35px;
+        padding: 7px 0px;
+        border-bottom: 1px solid #7F8184;
+        overflow: hidden;
+
+        .glyphicon,
+        .fa {
+            color: #E6E7E8;
+            margin-top: 1px;
+            margin-right: 12px;
+            font-size: 16px;
+        }
+
+        .mc-button-group {
+            padding: 4px 28px;
+            height: 12px;
+            position: relative;
+            float: left;
+        }
+
+        .mc-button {
+            height: 12px;
+            width: 12px;
+            border-radius: 50%;
+            float: left;
+            margin-right: 6px;
+        }
+
+        .mc-button-order-1 {
+            background: #EF413D;
+        }
+        .mc-button-order-2 {
+            background: #FDB913;
+        }
+        .mc-button-order-3 {
+            background: #50B848;
+        }
+
+        .f-search-group {
+            margin: 0px 45px 0px 104px;
+
+            .f-search-input {
+                background: #E6E7E8;
+                height: 20px;
+                width: 100%;
+                border-radius: 10px;
+            }
+
+        }
+
+    }
+
+    .mockup-body {
+
+        img {
+            width: 100%;
+        }
+
+    }
+
+}
+
+
+.mockup-mobile {
+    border: 2px solid #7F8184;
+    border-radius: 25px;
+    overflow: hidden;
+    background: white;
+
+    -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.25);
+
+    .mobile-sensor {
+        height: 5px;
+        width: 5px;
+        border: 1px solid #7F8184;
+        border-radius: 50%;
+        position: absolute;
+        top: 9px;
+        left: 50%;
+        margin-left: -2px;
+    }
+    .mobile-camera {
+        height: 7px;
+        width: 7px;
+        border: 1px solid #7F8184;
+        border-radius: 50%;
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        margin-left: -30px;
+    }
+    .mobile-speaker {
+        height: 4px;
+        width: 30px;
+        border: 1px solid #7F8184;
+        border-radius: 2px;
+        position: absolute;
+        top: 23px;
+        left: 50%;
+        margin-left: -15px;
+    }
+    .mockup-mobile-inner {
+        margin: 45px 10px;
+        border: 1px solid #7F8184;
+        float: left;
+    }
+    .mobile-button {
+        height: 30px;
+        width: 30px;
+        border: 1px solid #7F8184;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 9px;
+        left: 50%;
+        margin-left: -15px;
+    }
+}
