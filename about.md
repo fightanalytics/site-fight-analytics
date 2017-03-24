@@ -315,7 +315,10 @@ permalink: /about-us/
                     </div>
                 </div>
                 <br>
-                <p>We understand mixed martial arts because we train and we live it. Come fight with us.</p>
+                <div class="text-center">
+                    <h3>We understand mixed martial arts because we train and we live it. Come fight with us.</h3>    
+                </div>
+                
                 <br>
                 <br>
               </div>
@@ -325,12 +328,12 @@ permalink: /about-us/
 
 
 
-    <section class="features">
+    <section class="features section">
         <article>
 
-            <div class="header-section">
-                <h2 class="title-header-section">Clients and partners</h2>
-                <p class="subtitle-header-section">Brands who trust us</p>
+            <div class="header-section text-center">
+                <h2>Clients and partners</h2>
+                <p>Brands who trust us</p>
             </div>
 
 
