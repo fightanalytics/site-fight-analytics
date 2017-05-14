@@ -22,9 +22,11 @@ layout: default
             <div class="post col-md-8 col-md-offset-2">
                 <br><br>
                 {% if page.category == "stats-center" %}
+                  {% if !page.imgpost.blank? %}
                     <div class="post-thumb">
                         <img src="{{ page.imgpost }}" alt="{{ page.title }}">
                     </div>
+                  {% endif %}
                     <br><br>
                     <h5>Like us:</h5>
                     <div id="fb-root"></div>
