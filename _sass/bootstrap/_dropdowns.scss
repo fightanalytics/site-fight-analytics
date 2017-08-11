@@ -17,11 +17,56 @@
 }
 
 // The dropdown wrapper (div)
+.dropbtn{
+  cursor: pointer;
+}
 .dropup,
 .dropdown {
-  position: relative;
+position: relative;
+display: inline-block;
+list-style: none;
+width: 100%;
+padding:0;
 }
 
+.dropdown button{
+  background-color: transparent;
+  outline: none;
+  border: none;
+  overflow: hidden;
+}
+
+.dropdown .dropdown-menu{
+  position: absolute;
+  left: 0;
+  margin: 0;
+}
+
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  z-index: 1;
+}
+
+.dropdown-content a{
+  color: black;
+  text-decoration: none;
+  display: none;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
 // Prevent the focus on the dropdown toggle when closing dropdowns
 .dropdown-toggle:focus {
   outline: 0;
@@ -159,6 +204,17 @@
   white-space: nowrap; // as with > li > a
 }
 
+
+li.dropdown-head,li.dropdown-head a {
+color: #1bd2e6;;
+text-indent: 0px;
+font-weight: bold;
+}
+
+.dropdown-menu li {
+text-indent: 10px;
+font-weight: bold;
+}
 // Backdrop to catch body clicks on mobile, etc.
 .dropdown-backdrop {
   position: fixed;
