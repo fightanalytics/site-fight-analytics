@@ -50,6 +50,7 @@ permalink: /betting-and-gaming/
           </p>
         </div>
       </div>
+      <article>
         <div class="row product-item">
           <div class="card-lg">
             <div class="container">
@@ -111,6 +112,7 @@ permalink: /betting-and-gaming/
                     </div>
                   </div>
                 </div>
+              </article>
             </section>
 
 
