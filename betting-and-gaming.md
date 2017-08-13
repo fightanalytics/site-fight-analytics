@@ -4,18 +4,6 @@ title: Betting & Gaming - Fight Analytics
 permalink: /betting-and-gaming/
 ---
 
-<article id="page" class="page jumbotron">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="text-container col-md-8">
-          <h1>Betting &amp; Gaming</h1>
-        </div>
-      </div>
-    </div>
-  </div>
-</article>
-
 <section class="products section">
   <article>
     <div class="container">
