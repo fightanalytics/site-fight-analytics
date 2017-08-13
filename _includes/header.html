@@ -1,45 +1,80 @@
 <header class="navbar-fixed-top">
-    <nav class="navbar navbar-default">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="/">
                     <img alt="Fight Analytics - MMA Stats" src="{{ '/images/fight-analytics-logo.png' | prepend: site.baseurl }}">
                 </a>
-            </div>
-            <div class="navbar-left">
-                 <ul class="nav navbar-nav collapse navbar-collapse">
-                    <li>
-                        <a class="page-link" href="/products">PRODUCTS</a>
-                    </li>
-                    <li>
-                        <a class="page-link" href="/about-us">ABOUT</a>
-                    </li>
-                    <li>
-                        <a class="page-link" href="/stats-center">BLOG</a>
-                    </li>
-                    <li>
-                        <a class="page-link" href="/talk-to-a-sales-rep">TALK TO A SALES REP</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="navbar-right">
-                <ul class="nav navbar-nav collapse navbar-collapse">
-                    <li>
-                        <span>
+      </div>
+      <div class="navbar-left">
+        <ul class="nav navbar-nav collapse navbar-collapse">
+          <!-- dropdown container -->
+          <div class="nav navbar-nav collapse navbar-collapse dropdown">
+
+            <!-- trigger button -->
+            <li style="cursor:pointer"><a class="page-link" href="/">SERVICES</a></li>
+
+            <!-- dropdown menu -->
+            <ul class="dropdown-menu">
+
+
+
+              <li class="dropdown-head"><i class="fa fa-caret-right" aria-hidden="true"></i> Digital Media</li>
+
+              <li><a class="page-link" href="/digital-media">WIDGETS</a></li>
+
+              <li class="dropdown-head"><i class="fa fa-caret-right" aria-hidden="true"></i> Broadcast</li>
+
+              <li><a class="page-link" href="/broadcast/">DATA & GRAPHICS</a></li>
+
+              <li class="dropdown-head"><i class="fa fa-caret-right" aria-hidden="true"></i> Betting & Gaming</li>
+
+              <li><a class="page-link" href="/betting-and-gaming/#data-feed">DATA FEED</a></li>
+              <li><a class="page-link" href="/betting-and-gaming/#customer-engagment">CUSTOMER ENGAGMENT</a></li>
+              <li><a class="page-link" href="/betting-and-gaming/#fantasy-games">FANTASY</a></li>
+
+              <li class="dropdown-head"><i class="fa fa-caret-right" aria-hidden="true"></i> MMA Promotions</li>
+              <li><a class="page-link" href="/mma-promotions">FAN ENGAGMENT</a></li>
+            </ul>
+          </div>
+
+          <div class="nav navbar-nav collapse navbar-collapse dropdown">
+            <li style="cursor: pointer"><a class="page-link" href="/about-us">ABOUT</a></li>
+
+            <ul class="dropdown-menu">
+              <li><a class="page-link" href="/about-us/#who-we-are">WHO WE ARE</a></li>
+              <li><a class="page-link" href="/about-us/#clients">WHO WE WORK WITH</a></li>
+              <li><a class="page-link" href="/about-us/#why-fight-analytics">WHY FIGHT ANALYTICS</a></li>
+            </ul>
+          </div>
+
+          <li>
+            <a class="page-link" href="/stats-center">BLOG</a>
+          </li>
+          <li>
+            <a class="page-link" href="/talk-to-a-sales-rep">GET IN TOUCH</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="navbar-right">
+        <ul class="nav navbar-nav collapse navbar-collapse">
+          <li>
+            <span>
                             <a class="page-link btn btn-md btn-primary get-in-touch" href="http://manager.fightanalytics.cc/users/sign_up">Sign Up</a>
                         </span>
-                    </li>
-                    <li>
-                        <a class="page-link" href="http://manager.fightanalytics.cc/">Log In</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+          </li>
+          <li>
+            <a class="page-link" href="http://manager.fightanalytics.cc/">Log In</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 </header>
