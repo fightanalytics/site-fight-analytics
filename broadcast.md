@@ -58,7 +58,7 @@ permalink: /broadcast/
             </div>
           </div>
           <div class="mockup-body">
-            <img src="/images/mockup-mmapromotions.png" />
+            <img src="/images/mockup-broadcast.png" />
           </div>
         </div>
       </div>
