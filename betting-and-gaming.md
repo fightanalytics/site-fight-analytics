@@ -26,29 +26,35 @@ permalink: /betting-and-gaming/
       </article>
 
       <div class="container">
+
         <div class="row">
           <div class="col-md-12">
             <div class="text-container col-md-12">
               <p>
-                <font size="5">Fight Analytics is the biggest independent UFC statistics provider in the world. We produce impartial and accurate data in real time which is a must have for today sportsbook teams. Our data allows bookmakers greater accuracy in pricing
-                  and the creation of mathematical models.</font>
+                <font size="5">
+                  Fight Analytics is the biggest independent UFC statistics provider in the world. We produce impartial and accurate data in real time which is a must have for today sportsbook teams. Our data allows bookmakers greater accuracy in pricing and the creation
+                  of mathematical models.</font>
               </p>
             </div>
           </div>
+          <div class="col-md-12">
+            <h3>Giving the edge</h3>
+            <p>
+              <font size="4">
+                Our data permits greater accuracy in pricing and development of novel gaming concepts and gives operators the edge in an increasingly competitive marketplace.
+              </font>
+            </p>
+          </div>
+          <div class="col-md-12">
+            <h3>Flexible delivery methods</h3>
+            <p>
+              <font size="4">No matter what file format (including XML, JSON, CSV) or delivery method (IP/Socket, RESTful API, HTTP Post, FTP) you need, our technical team will help you get up and running quickly.</font>
+            </p>
+          </div>
         </div>
-        <div class="col-md-12">
-          <h3>Giving the edge</h3>
-          <p>
-            <font size="4">Our data permits greater accuracy in pricing and development of novel gaming concepts and gives operators the edge in an increasingly competitive marketplace.</font>
-          </p>
-        </div>
-        <div class="col-md-12">
-          <h3>Flexible delivery methods</h3>
-          <p>
-            <font size="4">No matter what file format (including XML, JSON, CSV) or delivery method (IP/Socket, RESTful API, HTTP Post, FTP) you need, our technical team will help you get up and running quickly.</font>
-          </p>
-        </div>
+
       </div>
+
       <article>
         <div class="row product-item">
           <div class="card-lg">
@@ -79,40 +85,40 @@ permalink: /betting-and-gaming/
               </div>
 
 
-            <section class="show-case">
-              <div class="col-sm-8">
-                <div class="container">
-                  <div class="row product-item">
-                    <div class="col-sm-8">
-                      <div class="mockup hidden-sm hidden-xs">
-                        <div class="mockup-header">
-                          <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
-                          <div class="mc-button-group">
-                            <div class="mc-button mc-button-order-1"></div>
-                            <div class="mc-button mc-button-order-2"></div>
-                            <div class="mc-button mc-button-order-3"></div>
+              <section class="show-case">
+                <div class="col-sm-8">
+                  <div class="container">
+                    <div class="row product-item">
+                      <div class="col-sm-8">
+                        <div class="mockup hidden-sm hidden-xs">
+                          <div class="mockup-header">
+                            <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
+                            <div class="mc-button-group">
+                              <div class="mc-button mc-button-order-1"></div>
+                              <div class="mc-button mc-button-order-2"></div>
+                              <div class="mc-button mc-button-order-3"></div>
+                            </div>
+                            <div class="f-search-group">
+                              <div class="f-search-input"></div>
+                            </div>
                           </div>
-                          <div class="f-search-group">
-                            <div class="f-search-input"></div>
+                          <div class="mockup-body">
+                            <img src="/images/mockup-api.png" alt="Live MMA stats data feed demonstration" />
                           </div>
                         </div>
-                        <div class="mockup-body">
-                          <img src="/images/mockup-api.png" alt="Live MMA stats data feed demonstration" />
+                        <div class="mockup-mobile">
+                          <div class="mobile-sensor"></div>
+                          <div class="mobile-camera"></div>
+                          <div class="mobile-speaker"></div>
+                          <div class="mockup-mobile-inner">
+                            <img src="/images/mockup-mobille-zero-hora.jpg" alt="" />
+                          </div>
+                          <div class="mobile-button"></div>
                         </div>
-                      </div>
-                      <div class="mockup-mobile">
-                        <div class="mobile-sensor"></div>
-                        <div class="mobile-camera"></div>
-                        <div class="mobile-speaker"></div>
-                        <div class="mockup-mobile-inner">
-                          <img src="/images/mockup-mobille-zero-hora.jpg" alt="" />
-                        </div>
-                        <div class="mobile-button"></div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
             </div>
             </section>
 
