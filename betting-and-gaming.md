@@ -119,123 +119,122 @@ permalink: /betting-and-gaming/
                     </div>
                   </div>
                 </div>
-            </div>
-            </section>
+              </section>
 
 
-            <section class="products section">
-              <article>
-                <div class="container">
-                  <article>
-                    <div class="header-section text-center" id="customer-engagment">
-                      <h2>Customer Engagment</h2>
-                    </div>
-                  </article>
-                  <div class="row">
-                    <div class="text-2 text-container col-md-12">
-                      <div class="header-text">
-                        <h3>Data Driven products</h3>
-                      </div>
-                      <p>
-                        <font size="4">It is clear that data must be placed at the heart of any sound sportsbook experience. Our data can be used to power data driven products such as stats areas or fight centres, ensuring consumer satisfaction and product reliability.
-                          Your product with Fight Analytics data is a simple way to publish betting relevant sports data and content on any sportsbook or consumer destination page.</font>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="row product-item">
-                    <div class="card-lg ">
-                      <div class="col-sm-8">
-                        <div class="mockup mockup-2">
-                          <div class="mockup-header">
-                            <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
-                            <div class="mc-button-group">
-                              <div class="mc-button mc-button-order-1"></div>
-                              <div class="mc-button mc-button-order-2"></div>
-                              <div class="mc-button mc-button-order-3"></div>
-                            </div>
-                            <div class="f-search-group">
-                              <div class="f-search-input"></div>
-                            </div>
-                          </div>
-                          <div class="mockup-body">
-                            <img src="/images/mockup-datadriven.png" />
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-sm-4">
-                        <div class="text text-2">
-                          <div class="header-text">
-                            <h3>Improve Product UX: Drive Brand Loyalty</h3>
-                          </div>
-                          <p>
-                            <font size="4">Product decisions used to be based on engineer wants and intuition. Today, they're based on feedback and information provided by customers. In a sector where differentiation is key, taking the data-first approach to sportsbook
-                              across all fields from integrity to rights management is the only way to guarantee a responsible, and ultimately successful, sportsbook operation.</font>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+<section class="products section">
+  <article>
+    <div class="container">
+      <article>
+        <div class="header-section text-center" id="customer-engagment">
+          <h2>Customer Engagment</h2>
+        </div>
+      </article>
+      <div class="row">
+        <div class="text-2 text-container col-md-12">
+          <div class="header-text">
+            <h3>Data Driven products</h3>
+          </div>
+          <p>
+            <font size="4">It is clear that data must be placed at the heart of any sound sportsbook experience. Our data can be used to power data driven products such as stats areas or fight centres, ensuring consumer satisfaction and product reliability. Your product
+              with Fight Analytics data is a simple way to publish betting relevant sports data and content on any sportsbook or consumer destination page.</font>
+          </p>
+        </div>
+      </div>
+      <div class="row product-item">
+        <div class="card-lg ">
+          <div class="col-sm-8">
+            <div class="mockup mockup-2">
+              <div class="mockup-header">
+                <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
+                <div class="mc-button-group">
+                  <div class="mc-button mc-button-order-1"></div>
+                  <div class="mc-button mc-button-order-2"></div>
+                  <div class="mc-button mc-button-order-3"></div>
                 </div>
-              </article>
-            </section>
-
-            <section class="products section">
-              <article>
-                <div class="container">
-                  <article>
-                    <div class="header-section text-center" id="fantasy-games">
-                      <h2>Fantasy Games</h2>
-                    </div>
-                  </article>
-
-                  <div class="row">
-                    <div class="text-2 text-container col-md-12">
-                      <p>
-                        <font size="5">It is clear that data must be placed at the heart of any sound sportsbook experience. Our data can be used to power data driven products such as stats areas or fight centres, ensuring consumer satisfaction and product reliability.
-                          Your product with Fight Analytics data is a simple way to publish betting relevant sports data and content on any sportsbook or consumer destination page.</font>
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="row product-item">
-                    <div class="card-lg">
-                      <div class="container">
-                        <div class="text text-1">
-                          <div class="text-container col-sm-4">
-                            <h3>Non-Stop Excitement</h3>
-                            <p>
-                              <font size="4">From your weekly fantasy MMA draft to the moment the last round of the night ends, Fight Analytics provides non-stop entertainment to keep you engaged in the games.</font>
-                            </p>
-                          </div>
-                          <div class="col-md-8">
-                            <div class="mockup mockup-1">
-                              <div class="mockup-header">
-                                <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
-                                <div class="mc-button-group">
-                                  <div class="mc-button mc-button-order-1"></div>
-                                  <div class="mc-button mc-button-order-2"></div>
-                                  <div class="mc-button mc-button-order-3"></div>
-                                </div>
-                                <div class="f-search-group">
-                                  <div class="f-search-input"></div>
-                                </div>
-                              </div>
-                              <div class="mockup-body">
-                                <img src="/images/mockup-fantasy.png" />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                <div class="f-search-group">
+                  <div class="f-search-input"></div>
                 </div>
-              </article>
-            </section>
-
-            <div class="well well-lg">
-              <div class="container">
-                <h3>It does not matter if you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs, we will lead your team to victory.</h3>
-                <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
+              </div>
+              <div class="mockup-body">
+                <img src="/images/mockup-datadriven.png" />
               </div>
             </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="text text-2">
+              <div class="header-text">
+                <h3>Improve Product UX: Drive Brand Loyalty</h3>
+              </div>
+              <p>
+                <font size="4">Product decisions used to be based on engineer wants and intuition. Today, they're based on feedback and information provided by customers. In a sector where differentiation is key, taking the data-first approach to sportsbook across
+                  all fields from integrity to rights management is the only way to guarantee a responsible, and ultimately successful, sportsbook operation.</font>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</section>
+
+<section class="products section">
+  <article>
+    <div class="container">
+      <article>
+        <div class="header-section text-center" id="fantasy-games">
+          <h2>Fantasy Games</h2>
+        </div>
+      </article>
+
+      <div class="row">
+        <div class="text-2 text-container col-md-12">
+          <p>
+            <font size="5">It is clear that data must be placed at the heart of any sound sportsbook experience. Our data can be used to power data driven products such as stats areas or fight centres, ensuring consumer satisfaction and product reliability. Your product
+              with Fight Analytics data is a simple way to publish betting relevant sports data and content on any sportsbook or consumer destination page.</font>
+          </p>
+        </div>
+      </div>
+
+      <div class="row product-item">
+        <div class="card-lg">
+          <div class="container">
+            <div class="text text-1">
+              <div class="text-container col-sm-4">
+                <h3>Non-Stop Excitement</h3>
+                <p>
+                  <font size="4">From your weekly fantasy MMA draft to the moment the last round of the night ends, Fight Analytics provides non-stop entertainment to keep you engaged in the games.</font>
+                </p>
+              </div>
+              <div class="col-md-8">
+                <div class="mockup mockup-1">
+                  <div class="mockup-header">
+                    <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
+                    <div class="mc-button-group">
+                      <div class="mc-button mc-button-order-1"></div>
+                      <div class="mc-button mc-button-order-2"></div>
+                      <div class="mc-button mc-button-order-3"></div>
+                    </div>
+                    <div class="f-search-group">
+                      <div class="f-search-input"></div>
+                    </div>
+                  </div>
+                  <div class="mockup-body">
+                    <img src="/images/mockup-fantasy.png" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</section>
+
+<div class="well well-lg">
+  <div class="container">
+    <h3>It does not matter if you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs, we will lead your team to victory.</h3>
+    <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
+  </div>
+</div>
