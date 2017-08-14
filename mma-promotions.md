@@ -25,10 +25,12 @@ permalink: /mma-promotions/
             <div class="text-container">
               <p>
                 <font size="5">Fight Analytics widgets are the most simple and efficient way of publishing cutting-edge sports data on your website.</font>
-              </p><br />
+              </p>
+              <br />
               <p>
                 <font size="5">Featuring in-fight scores and statistics, compelling data visualizations and integrated real-time commentary, our digital products keep users engaged on your website while providing a space for additional advertising revenue.</font>
-              </p><br />
+              </p>
+              <br />
             </div>
           </div>
         </div>
@@ -41,7 +43,6 @@ permalink: /mma-promotions/
                   <p>
                     <font size="4">Besides fixtures, live results and fighter personal info - we bring these stats in real time:</font>
                   </p>
-
                   <p>
                     <font size="4">- Strikes Thrown
                       <br /> - Significant Strikes Landed
@@ -59,12 +60,16 @@ permalink: /mma-promotions/
                   <div class="mockup-header">
                     <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
                     <div class="mc-button-group">
-                      <div class="mc-button mc-button-order-1"></div>
-                      <div class="mc-button mc-button-order-2"></div>
-                      <div class="mc-button mc-button-order-3"></div>
+                      <div class="mc-button mc-button-order-1">
+                      </div>
+                      <div class="mc-button mc-button-order-2">
+                      </div>
+                      <div class="mc-button mc-button-order-3">
+                      </div>
                     </div>
                     <div class="f-search-group">
-                      <div class="f-search-input"></div>
+                      <div class="f-search-input">
+                      </div>
                     </div>
                   </div>
                   <div class="mockup-body">
@@ -75,9 +80,9 @@ permalink: /mma-promotions/
             </div>
           </div>
         </div>
+      </section>
     </div>
   </article>
-  </section>
 </section>
 
 <div class="well well-lg">
