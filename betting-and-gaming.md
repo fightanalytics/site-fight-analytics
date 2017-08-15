@@ -84,35 +84,47 @@ permalink: /betting-and-gaming/
                 </div>
               </div>
 
-
-              <section class="show-case">
-                <div class="col-sm-8">
-                  <div class="container">
-                    <div class="row product-item">
-                      <div class="col-sm-8">
-                        <div class="mockup hidden-sm hidden-xs">
-                          <div class="mockup-header">
-                            <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
-                            <div class="mc-button-group">
-                              <div class="mc-button mc-button-order-1"></div>
-                              <div class="mc-button mc-button-order-2"></div>
-                              <div class="mc-button mc-button-order-3"></div>
-                            </div>
-                            <div class="f-search-group">
-                              <div class="f-search-input"></div>
-                            </div>
+              <div class="col-sm-8">
+                <div class="container">
+                  <div class="row product-item">
+                    <div class="col-sm-8">
+                      <div class="mockup hidden-sm hidden-xs">
+                        <div class="mockup-header">
+                          <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
+                          <div class="mc-button-group">
+                            <div class="mc-button mc-button-order-1"></div>
+                            <div class="mc-button mc-button-order-2"></div>
+                            <div class="mc-button mc-button-order-3"></div>
                           </div>
-                          <div class="mockup-body">
-                            <img src="/images/mockup-api.png" alt="Live MMA stats data feed demonstration" />
+                          <div class="f-search-group">
+                            <div class="f-search-input"></div>
                           </div>
                         </div>
+                        <div class="mockup-body">
+                          <img src="/images/mockup-api.png" alt="Live MMA stats data feed demonstration" />
+                        </div>
+                      </div>
+                      <div class="mockup-mobile">
+                        <div class="mobile-sensor"></div>
+                        <div class="mobile-camera"></div>
+                        <div class="mobile-speaker"></div>
+                        <div class="mockup-mobile-inner">
+                          <img src="/images/mockup-mobille-zero-hora.jpg" alt="" />
+                        </div>
+                        <div class="mobile-button"></div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </section>
+              </div>
+            </div>
+          </div>
+        </div>
       </article>
 </section>
+
+
+
 
 <section class="products section">
   <article>
