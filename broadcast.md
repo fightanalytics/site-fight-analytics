@@ -63,7 +63,7 @@ permalink: /broadcast/
 
 <div class="well well-lg">
   <div class="container">
-  <h3>It does not matter if you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs, we will lead your team to victory.</h3>
+  <h3>Whether you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs.</h3>
   <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
 </div>
 </div>
