@@ -111,9 +111,9 @@ permalink: /betting-and-gaming/
           </div>
         </div>
       </div>
+    </div>
   </article>
 </section>
-
 
 <section class="products section">
   <article>
