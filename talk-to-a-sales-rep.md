@@ -153,5 +153,5 @@ permalink: /talk-to-a-sales-rep/
 </article>
 
 <div class="footer-landing">
-  <p>Fight Analytics (c) 2014 - 2016 - contact@fightanalytics.cc</p>
+  <p>Fight Analytics (c) 2014 - 2017 - contact@fightanalytics.cc</p>
 </div>
