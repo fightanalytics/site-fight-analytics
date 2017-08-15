@@ -106,21 +106,13 @@ permalink: /betting-and-gaming/
                             <img src="/images/mockup-api.png" alt="Live MMA stats data feed demonstration" />
                           </div>
                         </div>
-                        <div class="mockup-mobile">
-                          <div class="mobile-sensor"></div>
-                          <div class="mobile-camera"></div>
-                          <div class="mobile-speaker"></div>
-                          <div class="mockup-mobile-inner">
-                            <img src="/images/mockup-mobille-zero-hora.jpg" alt="" />
-                          </div>
-                          <div class="mobile-button"></div>
-                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </section>
-
+      </article>
+</section>
 
 <section class="products section">
   <article>
@@ -234,7 +226,7 @@ permalink: /betting-and-gaming/
 
 <div class="well well-lg">
   <div class="container">
-  <h3>Whether you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs.</h3>
-  <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
-</div>
+    <h3>Whether you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs.</h3>
+    <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
+  </div>
 </div>
