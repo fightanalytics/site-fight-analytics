@@ -152,6 +152,13 @@ permalink: /talk-to-a-sales-rep/
   </div>
 </article>
 
+<div class="well well-lg">
+  <div class="container">
+  <h3>Whether you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs.</h3>
+  <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
+</div>
+</div>
+
 <div class="footer-landing">
   <p>Fight Analytics (c) 2014 - 2017 - contact@fightanalytics.cc</p>
 </div>
