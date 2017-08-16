@@ -183,8 +183,7 @@ permalink: /betting-and-gaming/
       <div class="row">
         <div class="text-2 text-container col-md-12">
           <p>
-            <font size="5">It is clear that data must be placed at the heart of any sound sportsbook experience. Our data can be used to power data driven products such as stats areas or fight centres, ensuring consumer satisfaction and product reliability. Your product
-              with Fight Analytics data is a simple way to publish betting relevant sports data and content on any sportsbook or consumer destination page.</font>
+            <font size="5">Fight Analytics expertise in collecting, tagging and distributing the best fight data available means that we are ideally placed to work with the world's premier Fantasy Sports platforms.</font>
           </p>
         </div>
       </div>
