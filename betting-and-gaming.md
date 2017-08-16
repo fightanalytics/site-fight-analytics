@@ -225,8 +225,8 @@ permalink: /betting-and-gaming/
 </section>
 
 <div class="well well-lg">
-  <div class="container">
-    <h3>Whether you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs.</h3>
-    <a href="/pricing" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
-  </div>
+<div class="container">
+<h3>Whether you are a startup or Fortune 500 company, Fight Analytics has the right pricing for your needs.</h3>
+<a href="/talk-to-a-sales-rep" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
+</div>
 </div>

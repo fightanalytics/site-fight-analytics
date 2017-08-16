@@ -119,7 +119,7 @@ permalink: /talk-to-a-specialist/
                     </div>
                     <div class="card-sm col-md-4">
                         <i class="fa fa-language"></i>
-                        <h3>Multi-Language Support</h3> 
+                        <h3>Multi-Language Support</h3>
                     </div>
                     <div class="card-sm col-md-4">
                         <i class="fa fa-support"></i>
@@ -150,5 +150,5 @@ permalink: /talk-to-a-specialist/
 </article>
 
 <div class="footer-landing">
-    <p>Fight Analytics (c) 2014 - 2016 - contact@fightanalytics.cc</p>
+    <p>Fight Analytics (c) 2014 - 2017 - contact@fightanalytics.cc</p>
 </div>
