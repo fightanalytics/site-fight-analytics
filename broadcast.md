@@ -42,8 +42,7 @@ permalink: /broadcast/
             <div class="col-sm-8">
               <div class="mockup mockup-1">
                 <div class="mockup-header">
-                  <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true">
-</span>
+                  <span class="glyphicon glyphicon-menu-hamburger pull-right" aria-hidden="true"></span>
                   <div class="mc-button-group">
                     <div class="mc-button mc-button-order-1">
                     </div>
