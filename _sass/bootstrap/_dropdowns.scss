@@ -37,12 +37,22 @@ padding:0;
 }
 
 .dropdown .dropdown-menu{
-  position: absolute;
-  left: 0;
-  margin: 0;
+  -webkit-transition: all 0.7s;
+  -moz-transition: all 0.7s;
+  -ms-transition: all 0.7s;
+  -o-transition: all 0.7s;
+  transition: all 0.7s;
+
+  max-height: 0;
+  display: block;
+  overflow: hidden;
+  opacity: 0;
+
 }
 
 .dropdown:hover .dropdown-menu{
+  max-height: 300px;
+  opacity: 1;
   display: block;
 }
 
