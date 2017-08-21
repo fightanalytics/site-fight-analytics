@@ -25,6 +25,7 @@ permalink: /broadcast/
             <font size="5">Fight Analytics expertise in collecting, tagging and distributing the best sports data available means that we are ideally placed to work with the world's premier sports broadcasters.</font>
           </p><br />
           </div>
+          
             <div class="text text-1">
               <div class="text-container col-sm-4">
                 <h3>Powering the best in sport broadcasting</h3>
@@ -32,6 +33,7 @@ permalink: /broadcast/
                   <font size="4">Our live data can be used in your on-screen presentation graphics, to bring to life your studio analysis or to engage your second screen viewers.
                   </font>
                 </p>
+
                 <h3>Editorial services</h3>
                 <p>
                   <font size="4">Our expert editorial team are on hand before, during and after the action to illuminate your coverage with fascinating stats and insights.
@@ -39,6 +41,7 @@ permalink: /broadcast/
                 </p>
               </div>
             </div>
+
             <div class="col-sm-8">
               <div class="mockup mockup-1">
                 <div class="mockup-header">
