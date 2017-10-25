@@ -134,7 +134,7 @@ $(document).ready( function() {
               "from_name": "Fight Analytics",
               "to": [
                   {
-                    "email": "lucas@fightanalytics.cc",
+                    "email": "fabio@fightanalytics.cc",
                     "name": "Fight Analytics",
                     "type": "to"
                   } 
