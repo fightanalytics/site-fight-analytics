@@ -234,8 +234,8 @@ $(document).ready( function() {
                   "from_name": "Form Free Trial",
                   "to": [
                       {
-                        "email": "lucas@fightanalytics.cc",
-                        "name": "Lucas Sanchez",
+                        "email": "fabio@fightanalytics.cc",
+                        "name": "Fabio de Brito",
                         "type": "to"
                       } 
                     ],
@@ -330,8 +330,8 @@ $(document).ready( function() {
                   "from_name": "Form 3 months U$ 49,90/mo",
                   "to": [
                       {
-                        "email": "lucas@fightanalytics.cc",
-                        "name": "Lucas Sanchez",
+                        "email": "fabio@fightanalytics.cc",
+                        "name": "Fabio de Brito",
                         "type": "to"
                       } 
                     ],
@@ -381,8 +381,8 @@ $(document).ready( function() {
                 "from_name": "Talk to us",
                 "to": [
                     {
-                      "email": "lucas@fightanalytics.cc",
-                      "name": "Lucas Sanchez",
+                      "email": "fabio@fightanalytics.cc",
+                      "name": "Fabio de Brito",
                       "type": "to"
                     } 
                   ],
@@ -458,8 +458,8 @@ $( "#form-free-fan-trial" ).submit(function() {
                   "from_name": "Form Free Trial",
                   "to": [
                       {
-                        "email": "lucas@fightanalytics.cc",
-                        "name": "Lucas Sanchez",
+                        "email": "fabio@fightanalytics.cc",
+                        "name": "Fabio de Brito",
                         "type": "to"
                       } 
                     ],
