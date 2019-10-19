@@ -22,9 +22,6 @@ permalink: /thank-you/
             <br><br>
             <h1>Thanks for sign in up!</h1>
             <p>Please, check your e-mail.</p>
-            <hr>
-            <h3>See our posts in Stats Center:</h3>
-            <p><a href="/stats-center" class="btn btn-primary"><span class="titlebutton">Stats Center</span></a></p>
         </article>
         <!-- <article class="thank-you">
             <br><br>

@@ -36,7 +36,6 @@ permalink: /digital-media/
                       <h3 class="feature-title">EVENT WIDGET</h3>
                     </div>
                     <p>UFC Event Widget is a product that delivers all UFC up-to-the-minute statistics, utilizing a reliability technology with accurate results streamed directly to your audience.</p>
-                    <p><a href="/stats-center/UFC-208-Holm-vs-de-Randamie-results-and-statistics/" class="btn btn-md btn-primary">Watch a example on our blog</a></p>
                   </div>
                 </div>
                 <div class="col-sm-8">
@@ -85,7 +84,6 @@ permalink: /digital-media/
                       <h3 class="feature-title">FIGHT WIDGET</h3>
                     </div>
                     <p>With UFC Fight Widget you have the freedom to embed all the stats fight per fight.</p>
-                    <p><a href="/stats-center/4-fighters-you-cant-miss-at-UFC-Fight-Night-94/" class="btn btn-md btn-primary">Watch a example on our blog</a></p>
                   </div>
                 </div>
               </div>

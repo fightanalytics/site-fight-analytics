@@ -74,7 +74,7 @@ permalink: /pricing/
 
                         <p class="subtitle-header-section"><strong>2 - Its in real time for real?</strong> <br> We combine real time monitoring statistics of every fight, specialized data and a innovative technology behind it. </p>
 -->
-                        <p>For samples of how you can use our products, access our <a href="/stats-center">UFC Stats Center</a> area or <a href="/talk-to-a-sales-rep">talk to a sales rep</a>.</p>
+                        <p>For samples of how you can use our products, <a href="/talk-to-a-sales-rep">talk to a sales rep</a>.</p>
                     </div>
                 </div>
 
