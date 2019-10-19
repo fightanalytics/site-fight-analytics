@@ -8,23 +8,12 @@ permalink: /about-us/
 
 <article id="page" class="page jumbotron">
   <div class="container">
-    <div class="row">
-      <div class="text-container col-md-8 col-md-offset-2">
-        <iframe src="https://docs.google.com/presentation/d/1i8PB7ZwsNpd6whayyJAD1ulv0vt0q7vP7mt-ttsMSpg/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-      </div>
-    </div>
-  </div>
-</article>
-
-<div class="well well-lg">
-  <div class="container">
-    <div>
+    <div class="text-center">
       <h3>Fight Analytics is a data company specialized in real time and statistics web products.</h3>
     </div>
   </div>
-</div>
-
-
+</article>
+<br/><br/>
 <section class="features">
   <article>
     <div class="header-section">
@@ -314,14 +303,7 @@ permalink: /about-us/
           </div>
         </div>
       </div>
-      <br />
-      <div class="text-center">
-        <h3>We understand mixed martial arts because we train and we live it. Come fight with us.</h3>
-      </div>
-
-      <br />
-      <br />
-    </div>
+   </div>
   </article>
 
 </section>
