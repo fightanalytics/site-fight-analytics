@@ -1,0 +1,61 @@
+I"ú	<div class="inner-page">
+    <article id="page" class="page jumbotron">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="text-container col-md-8">
+                        <h1>Changelog</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+    <br /><br />
+    <div class="container">
+        <div class="list-post col-md-12">
+            
+                <article class="post-thumb col-md-4">
+                    <strong>
+                        <span class="post-meta">Dec 30, 2016</span>
+                    </strong>
+                    <h2>
+                    <a class="post-link" href="/changelog/status-up/"><img src="" alt="[SERVER STATUS] Server is now back up" /> <br /> <br /> [SERVER STATUS] Server is now back up</a>
+                    </h2>
+                    <hr />
+                    <br />
+                </article>
+            
+                <article class="post-thumb col-md-4">
+                    <strong>
+                        <span class="post-meta">Dec 30, 2016</span>
+                    </strong>
+                    <h2>
+                    <a class="post-link" href="/changelog/status-in-maintenance/"><img src="" alt="[SERVER STATUS] Server is down" /> <br /> <br /> [SERVER STATUS] Server is down</a>
+                    </h2>
+                    <hr />
+                    <br />
+                </article>
+            
+                <article class="post-thumb col-md-4">
+                    <strong>
+                        <span class="post-meta">Oct 28, 2016</span>
+                    </strong>
+                    <h2>
+                    <a class="post-link" href="/changelog/free-ufc-statistics/"><img src="https://gallery.mailchimp.com/5cae10e10871b3ddcfd442ba5/images/1522b279-0ac2-4b36-a40f-3f3183221792.gif" alt="UFC statistics dashboard - Free product released" /> <br /> <br /> UFC statistics dashboard - Free product released</a>
+                    </h2>
+                    <hr />
+                    <br />
+                </article>
+            
+        </div>
+    </div>
+
+    <br /><br />
+    <div class="well well-lg">
+        <div class="container">
+            <h3>Start improving the live fight experience for your MMA fans now.</h3>
+            <a href="http://manager.fightanalytics.cc/users/sign_up" class="btn btn-primary btn-lg"> <strong>Free Trial</strong> <span class="subtext">(no credit card required)</span></a>
+        </div>
+    </div>
+</div>
+:ET
