@@ -1,9 +1,4 @@
----
-layout: page
-title: Broadcast Fight Analytics - MMA Stats
-permalink: /broadcast/
----
-
+I"I
 <article id="page" class="page jumbotron">
   <div class="container">
     <div class="row">
@@ -75,3 +70,4 @@ permalink: /broadcast/
 <a href="/talk-to-a-sales-rep" class="btn btn-primary btn-lg"><strong>Pricing and Plans</strong></a>
 </div>
 </div>
+:ET

@@ -60,11 +60,11 @@ permalink: /products/
                 </div>
               </div>
               <div class="mockup-body">
-                <div class="cycle-slideshow cycle-autoinit" 
+                <div class="cycle-slideshow cycle-autoinit"
                   data-cycle-fx="fade"
                   data-cycle-speed="1500"
                   data-cycle-easing="linear"
-                  >      
+                  >
                   <img src="/images/mockup-zero-hora.jpg" alt="Live MMA stats data feed demonstration">
                   <img src="/images/mockup-mma-weekly.jpg" alt="Live MMA stats data feed demonstration">
                   <img src="/images/mockup-mmajunkie.jpg" alt="Live MMA stats data feed demonstration">
@@ -85,7 +85,7 @@ permalink: /products/
       </div>
     </article>
 </section>
-   
+
 <section class="products section">
   <article>
     <div class="container">
@@ -120,7 +120,7 @@ permalink: /products/
                   <div class="mockup-body">
                       <img src="/images/mockup-mma-weekly.jpg" alt="Live MMA stats data feed demonstration">
                   </div>
-              </div>           
+              </div>
             </div>
         </div>
       </div>
@@ -142,7 +142,7 @@ permalink: /products/
                   <div class="mockup-body">
                       <img src="/images/mockup-mmajunkie.jpg" alt="Live MMA stats data feed demonstration">
                   </div>
-              </div>          
+              </div>
           </div>
           <div class="col-sm-4">
               <div class="text text-2">
@@ -183,7 +183,7 @@ permalink: /products/
                   <div class="mockup-body">
                     <img src="/images/dashboard-admin.jpg" alt="Live MMA stats data feed demonstration">
                   </div>
-              </div>          
+              </div>
           </div>
         </div>
       </div>
@@ -196,6 +196,6 @@ permalink: /products/
 <div class="well well-lg">
     <div class="container">
         <h3>Start improving the live fight experience for your MMA fans now.</h3>
-        <a href="/pricing" class="btn btn-primary btn-lg"> <strong>Pricing and Plans</strong> </a>
+        <a href="/talk-to-a-sales-rep" class="btn btn-primary btn-lg"> <strong>Pricing and Plans</strong> </a>
     </div>
 </div>
