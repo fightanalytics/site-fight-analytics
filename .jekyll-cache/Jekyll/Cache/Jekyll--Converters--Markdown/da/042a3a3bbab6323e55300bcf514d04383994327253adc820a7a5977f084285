@@ -1,10 +1,4 @@
----
-layout: page
-title: About Fight Analytics - MMA Stats
-permalink: /about-us/
----
-
-<div class="inner-page about-us">
+I"�<div class="inner-page about-us">
 
 <article id="page" class="page jumbotron">
   <div class="container">
@@ -100,18 +94,15 @@ permalink: /about-us/
         <h3>1. STRIKE THROWN x SIGNIFICANT STRIKE LANDED</h3>
 
         Strike thrown is any strike that was thrown with an obvious intention of reaching/hurting the opponent.
-        All types of strikes are included in this category: <br><br>
+        All types of strikes are included in this category:
+          <h4>1. Strikes that do not land</h4>
+          <h4>2. Strikes that land but do not cause damage</h4>
+          <h4>3. Strikes that land and cause damage</h4>
 
-        <ol>
-          <li>1. Strikes that do not land</li>
-          <li>2. Strikes that land but do not cause damage</li>
-          <li>3. Strikes that land and cause damage</li>
-        </ol>
+        <b>Note 1:</b> Punches to measure distance do not count as strikes thrown &lt;/br&gt;
+        <b>Note 2:</b> Hesitating / feinting is not considered as strikes thrown &lt;/br&gt;
 
-        <b>Note 1:</b> Punches to measure distance do not count as strikes thrown <br>
-        <b>Note 2:</b> Hesitating / feinting is not considered as strikes thrown <br><br>
-
-        Significant strike landed is any strike that connects on the opposing athlete and also involves either (a+b+c) or (a+b) or (a+c) or (b+c) or (c on its own) from:<br><br>
+        Significant strike landed is any strike that connects on the opposing athlete and also involves either (a+b+c) or (a+b) or (a+c) or (b+c) or (c on its own) from:
 
         <ol type="a">
           <li>Total extension of the limb used to strike</li>
@@ -120,8 +111,8 @@ permalink: /about-us/
         </ol>
 
 
-        <b>Note 1:</b> If athlete B’s arms are close to his body, in a defensive position, whether standing, in a clinch, on the fence or on the ground, when receiving a blow, this blow can be counted as significant strike landed for athlete A.<br>
-        <b>Note 2:</b> Poorly defended and connecting strikes can be counted as Significant Strikes landed.<br>
+        <b>Note 1:</b> If athlete B’s arms are close to his body, in a defensive position, whether standing, in a clinch, on the fence or on the ground, when receiving a blow, this blow can be counted as significant strike landed for athlete A.
+        <b>Note 2:</b> Poorly defended and connecting strikes can be counted as Significant Strikes landed.
       </div>
 
       <div class="text-container col-md-8">
@@ -131,54 +122,57 @@ permalink: /about-us/
 
         <ol>
           <li>Clearly exerts force with the intent to take athlete B down</li>
-          <b>And/Or</b>
+          And/Or
           <li>Move athlete B</li>
         </ol>
       </div>
 
-      <div class="text-container col-md-8">
-        <h3>3. SUCCESSFUL TAKEDOWNS</h3>
-        Athlete A will only have her/his maneuver counted as a takedown if she/he keeps her/his opponent’s hips on the ground for more than 3 (three) seconds. <br>
 
-        Athlete A must end up on the top, otherwise it will not be considered a successful takedown, but an attempt.
-      </div>
 
-      <div class="text-container col-md-8">
-        <h3>4. GROUND TRANSITIONS</h3>
 
-        Only offensive transitions (positional improvement) count as transitions <br>
-        Variations of the same domain position will not count as a transition. <br>
-        To count as a successful transition, an athlete must maintain the position for a minimum of 3 (three) seconds.
-      </div>
 
-      <div class="text-container col-md-8">
-        <h3>5. SUBMISSION ATTEMPTS</h3>
+3. SUCCESSFUL TAKEDOWNS
 
-        Athlete A will have her/his maneuver counted as a submission attempt if athlete B obviously has to exert strength and/or maneuver to avoid being submitted.
-      </div>
+Athlete A will only have her/his maneuver counted as a takedown if she/he keeps her/his opponent’s hips on the ground for more than 3 (three) seconds.
+Athlete A must end up on the top, otherwise it will not be considered a successful takedown, but an attempt.
 
-      <div class="text-container col-md-8">
-        <h3>6. TAKEDOWN DEFENDED</h3>
+4. GROUND TRANSITIONS
 
-        Athlete A will only have her/his maneuver counted as a takedown defense if she/he clearly has to exert force and/or maneuver to avoid being taken down by B.
-      </div>
+Only offensive transitions (positional improvement) count as transitions
+Variations of the same domain position will not count as a transition.
+To count as a successful transition, an athlete must maintain the position for a minimum of 3 (three) seconds.
 
-      <div class="text-container col-md-8">
-        <h3>7. CAGE CONTROL</h3>
+5. SUBMISSION ATTEMPTS
 
-        Athlete A must dominate the center of the cage for at least 3 (three) seconds before starting the time counter.<br>
-        If both athletes are in the center of the cage, no one will score points.<br>
-        If A keeps B at the fence, but with her/his head below B's waistline, none of the athletes will be in control.<br>
-      </div>
+Athlete A will have her/his maneuver counted as a submission attempt if athlete B obviously has to exert strength and/or maneuver to avoid being submitted.
 
-      <div class="text-container col-md-8">
-        <h3>8. GROUND CONTROL</h3>
+6. TAKEDOWN DEFENDED
 
-        Athlete A must dominate his opponent's hips on the ground for at least 3 (three) seconds before starting the time counter.<br>
-        When athlete A is on top position, but athlete B attempts a submission from the bottom, the time will be on hold until A defends the submission.
-      </div>
+Athlete A will only have her/his maneuver counted as a takedown defense if she/he clearly has to exert force and/or maneuver to avoid being taken down by B.
+
+7. CAGE CONTROL
+
+Athlete A must dominate the center of the cage for at least 3 (three) seconds before starting the time counter.
+If both athletes are in the center of the cage, no one will score points.
+If A keeps B at the fence, but with her/his head below B's waistline, none of the athletes will be in control.
+
+8. GROUND CONTROL
+
+Athlete A must dominate his opponent's hips on the ground for at least 3 (three) seconds before starting the time counter.
+When athlete A is on top position, but athlete B attempts a submission from the bottom, the time will be on hold until A defends the submission.
+
+
+
+
+
+
+
+
     </div>
+
+
   </article>
 </section>
 <br /><br />
 </div>
+:ET
